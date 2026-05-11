@@ -1,0 +1,1958 @@
+Scene Number,Instruction Type,Instruction
+1.0,sd,"turn left into the road, Drive around road blockages"
+1.0,d,"Turn left, then stay on the right side to avoid hitting the person on the right side of the truck. Go back to left lane once obstructions on left lane are gone."
+1.0,s,Turn right and move to the other lane carefully to avoid the trucks on the side of the road. Move back to other lane when the trucks clear up.
+1.0,s,turn right and then slide into the left lane to avoid hitting the trucks
+2.0,s,turn left at the intersection
+2.0,s,Turn right and continue down this road. The road will change from two lanes into one lane.
+2.0,s,"Turn left, then slow down right before the speed bump to reduce impact."
+2.0,s,turn left
+3.0,d,"Wait unitl the gate opens, move forward, slow down for pedestrians, stop for incoming traffic"
+3.0,ds,"Slow down on the speed bump, come to a stop near the toll gate until it opens, slowly proceed but watch out for the group of individuals crossing the street, then turn left"
+3.0,sd,"Go straight, but make sure to stop for the crossing bar. Continue forward and watch out for the group of people crossing the road."
+3.0,ds,follow the car in front stop for the barricades
+4.0,d,"Slightly slow down for the person crossing the street, then preceed as normal."
+4.0,,Continue going straight.
+4.0,d,be catious of pedestrians
+5.0,s,"Switch to the left lane to avoid the construction on the right lane, and preceed on the right lane after the construction is clear."
+5.0,s,stop at the intersection
+5.0,s,Follow the cones to merge onto the other lane
+5.0,sd,Turn and merge onto the left lane. Follow the yellow car in front.
+6.0,s,"Switch to the right lane when you see the truck on the left lane, then go back to the left lane once the truck is gone, then turn left"
+6.0,ds,Slightly go to the right to avoid hitting the person walking down the left lane
+6.0,d,"Continue straight then change lanes when the car is in the way, then turn left immediately."
+6.0,s,swerve around the parked car then turn left
+6.0,s,"Slow down for road obstruction, Move to the right lane, Move back to left lane and make a left turn. "
+7.0,s,Continue straight and then turn left. Watch out for pedestrians on the road.
+7.0,d,"Slow down when the people are crossing the street on the left side, then proceed normally."
+7.0,,turn left
+7.0,,turn left
+7.0,d,Turn left after the two individuals cross the street
+8.0,,turn left
+8.0,,Continue straight and then turn left.
+8.0,s,Take the left that comes right after the white truck on the right side of the road.
+8.0,,turn left
+9.0,,Continue going straight.
+10.0,s,Switch to the left lane after passing the final obstructing car parked on the left lane.
+10.0,,switch to the left lane
+10.0,s,"complete the right turn, then switch into the left lane"
+10.0,s,Turn right and then continue going straight. Merge onto the left lane once the trucks clear up.
+11.0,ds,Avoid the vehicle and obstructions in front of you by getting onto the middle of the road. Drive slowly and go back to the original lane once obstructions clear.
+11.0,s,Drive around the road obstruction
+11.0,s,Turn and split the lanes in order to avoid the trucks. Get back onto our side once the construction clears up.
+11.0,s,turn left then go around the parked cars
+12.0,d,Slow down when the  orange bus turns into your lane.
+12.0,,Continue going straight.
+13.0,,Continue going on the same lane
+13.0,d,Follow yellow bus.
+13.0,d,Follow the orange bus.
+14.0,,Continue going on the same lane
+14.0,d,continue straight when vehicle in front starts continuing straight
+14.0,d,Follow the orange bus.
+14.0,d,follow the orange bus
+14.0,d,Follow yellow bus.
+15.0,,Continue going on the same lane
+15.0,d,Follow yellow bus.
+15.0,d,Follow the orange bus.
+16.0,s,Turn left and then continue going straight. Move on to the other lane when the FedEx truck is blocking our lane.
+16.0,s,"Turn left, switch to the right lane when you see the stationary white truck"
+16.0,s,"turn left , Drive around the road obstruction"
+16.0,s,turn left and move around the parked vehicles
+17.0,s,slide into the left turning lane and then stop at the zebra crossing
+17.0,sd,Continue going straight and then change lanes to take a left. Wait for people to finish crossing
+17.0,d,"switch lanes to the left lane, stop for incoming pedestrians"
+17.0,d,Stop when the people are crossing the road
+17.0,s,Switch to the left lane when it appears
+18.0,,"Turn left, then turn left again when you can"
+18.0,s,"make a left turn and drive aroudn road obstructions, turn left"
+18.0,s,complete the left turn then enter the building horshoe
+18.0,s,Merge on to the lane in front and then take the left turn.
+19.0,sd,"turn left, make another left turn. "
+19.0,sd,Take a left turn and then continue going straight. Watch out for people crossing. Start moving to the left.
+19.0,,Turn left
+19.0,d,Stop when you see the group of people at the stopwalk
+19.0,,turn left
+20.0,,Turn right into the road when traffic is clear
+20.0,s,turn right at the intersection when it is safe
+20.0,d,Wait for the black car to pass and then go straight and take a right. Then continue going straight.
+20.0,d,Turn to the right once the car has passed through
+21.0,s,turn right at the intersection when it is safe
+21.0,d,Turn right once the car has passed through the intersection
+21.0,d,Turn right into the road when traffic is clear
+21.0,d,Wait for the cars to pass and the people to cross. Then move slowly and take a right turn.
+22.0,s,Switch to the right lane when you see the stationary car ahead.
+22.0,,Switch to the left lane
+22.0,,"switch to the left lane, make a left turn. "
+22.0,,Take the first left
+22.0,s,Switch to the left lane and continue going straight. Then take a left turn.
+22.0,s,slide into the left lane then turn left at the intersection
+23.0,s,Quickly switch lanes to avoid the car in the road and then continue going straight in the same lane.
+23.0,s,Drive around road blockages
+23.0,s,Go to the left lane after you pass the car
+24.0,ds,Come to a full stop before entering the intersection. Then merge onto the road if no cars are coming.
+24.0,,"stop at the intersection, then continue going straight"
+24.0,d,Continue going straight and merge onto the upcoming lane. Watch out for people crossing.
+24.0,d,"stop for incoming traffic, if clear continue straight. "
+25.0,d,Wait for the person and car to cross. Then take a right turn.
+25.0,d,turn right after the pedestrian finishes crossing
+25.0,d,"Wait for the person to cross the street and for the car to pass through the intersection, then turn right."
+25.0,d,"stop for incoming traffic and pedestrians, once clear move straight. "
+26.0,s,Quickly change lanes to avoid the car then get back to the left lane and continue going straight. Slow down behind the person in the motorcycle.
+26.0,d,"Go on the right side of the car that is partially blocking the lane, then proceed back onto the left lane."
+26.0,s,"Drive around the vehicles blocking the road, come to a complete stop behind stop vehicle. "
+26.0,s,swerve around the parked cars
+27.0,d,once vehicle begins to move turn to the right
+27.0,s,Turn to the far right lane
+27.0,d,"when the bike moves out of the way, turn right at the intersection"
+27.0,d,Wait for the motorcycle person to pass and then take a right turn and go straight.
+28.0,sd,Drive around the road obstruction.
+28.0,s,"Switch partially to the right lane before reaching the car in front, and then stop at the stoplight."
+28.0,s,Switch lanes and then go back to the orginal lane. Then wait at the stop lights. Wait for the people crossing.
+28.0,s,swerve around the parked cars then stop at the intersection
+29.0,,Just wait for the lights.
+30.0,,Go straight on the lane. Then wait for a little bit before taking a left.
+30.0,,Turn left slowly at the intersection
+30.0,s,stop at the intersections
+30.0,d,turn to the right once traffic is clear
+31.0,,Follow the current lane.
+32.0,,Take a left turn and merge onto the new road. Then continue on the new lane.
+32.0,d,"turn left, turn left again. "
+32.0,,turn left
+32.0,,Take the very first left
+33.0,d,Slow down when you are close to the large vehicle in front.
+33.0,d,Continue going on the same lane. Slow down for the bust in front.
+34.0,s,"Slightly go on the right lane, across the double marked lines, to avoid hitting the truck in front, then go back to the left lane."
+34.0,s,Drive around the road obstruction
+34.0,s,Continue on the same lane. Move to the next lane to avoid the truck and then get back onto the previous lane.
+35.0,,Continue straight on the same lane.
+36.0,,Continue on the same lane.
+36.0,s,follow the road
+37.0,s,"Go between the solid lines to avoid the vehicles on the left lane, then go back to the left lane once that is cleared."
+38.0,sd,"follow the car ahead, avoid and drive around the vehicles on the side of the road"
+38.0,s,Drive around the road blockages
+38.0,s,"After passig the obstruction on the left side of the road, merge back onto the left lane"
+38.0,d,Follow the gray car.
+38.0,s,Split the lane to avoid the trucks on the side of the road.
+39.0,,Continue straight
+41.0,s,turn left at the intersection and merge onto the far right lane
+41.0,s,"turn left, switch lanes all the way to right, stop behind the car"
+41.0,s,"turn left at the intersection, then slide into the right most lane, then stop at the intersection"
+41.0,s,Turn left onto the leftmost lane
+41.0,s,Switch to the rightmost lane
+41.0,s,Take a left turn and the continue going straight. Stop behind the white car.
+42.0,s,Continue going straight and move slightly right to avoid the truck on your left.
+42.0,s,Stay on the right side of the lane to avoid hitting the car on your left side of the lane
+42.0,s,"go straight, move away slightly from parked vehicles "
+42.0,s,Go back onto the left lane
+42.0,s,Keep staying on the right side to avoid hitting the second car on the left side of your lane
+43.0,s,stop at the intersection
+43.0,s,Keep going straight and then stop at the stop light.
+43.0,d,Slow down when you see when group of individuals crossing the street.
+44.0,sd,slow down at the intersection and wait for the white truck to turn then continue
+44.0,,Keep going straight and follow the same lane.
+44.0,s,go straight
+44.0,d,Slow down when the white truck turns left
+45.0,d,Pass the toll gate when the gate opens
+45.0,d,continue forward once gate opens
+45.0,d,Stop at the toll gate once the car ahead passes through it
+45.0,s,"stop at the barricade, once the arm is lifted proceed"
+45.0,sd,Move slowly forward and stop behind the car in front of you. Stop in front of the crossing guard. Move once the crossing guard goes up.
+46.0,s,stop at the intersection
+47.0,s,continue straight at the intersection
+48.0,sd,Slow down and watch the pedestrian and the turn right and continue going straight
+48.0,s,"at the end of the construction turn right at the intersection, merge onto the left lane"
+48.0,s,"turn right on the T-junction, then slide into the leftmost lane"
+48.0,,Turn right at the intersection
+48.0,d,Slow down when the person crosses the road
+48.0,,"make a right turn, switch to the left lane"
+49.0,s,Take the very first left and stay on the leftmost lane
+49.0,,turn left
+49.0,s,turn left at the intersection and continue straight 
+49.0,s,turn left at the intersection
+49.0,s,Keeping going straight then at the next turn take a left
+50.0,,turn left
+50.0,s,take the next left turn
+50.0,,Take the very first left and go straight
+50.0,s,turn right at the intersection
+50.0,s,Keep going straight and then take the first left
+51.0,s,Stop right before the intersection
+51.0,sd,drive around the parked cars on the left and continue straight
+51.0,s,"swerve around the parked cars then stop at the intersection, then move forward"
+51.0,s,Switch lanes temporarily and then go back to the left lane and wait
+51.0,s,"Drive around road blockages, come to a complete stop then continue straight. "
+51.0,s,"Go on the right side of the parked cars, then go back to the lane once it's clear"
+52.0,s,turn left  at the intersection
+52.0,sd,"slow down as you approach the white car and continue along the road driving around any parked cars , take a left at the end of the road"
+52.0,s,"Stay in the middle of the road to avoid the vehicle on the left and right side of the road, then go back on the left side."
+52.0,sd,"slow down for incoming vehicle, avoid road obstruction, come to a complete stop then turn left. "
+52.0,ds,Turn left at the intersection
+52.0,d,Stay on the left side of the car approaching you
+52.0,sd,Slow down and avoid the white car. Switch lanes to avoid the car in front and then take a left turn at the end of the street
+53.0,d,follow the white sedan ahead of you in your lane
+54.0,s,"turn left, avoid road obstruction"
+54.0,,Make a left turn
+54.0,sd,Take a left turn and aviad the cars and trucks  to the left. Split the lane until the trucks clear up.
+54.0,s,turn right at the intersection
+54.0,sd,turn left at the end of the intersection and drive around avoiding parked trucks on the road
+54.0,s,"Stay in the middle of the lane to avoid the vehicles on the left and right sides of the road, but then proceed to switching to the left lanes ones the cars on the left clear."
+55.0,d,follow the gray car ahead and turn right at the same intersection as it
+56.0,d,Take the right turn that the grey vehicle in front of you takes.
+56.0,,turn right
+56.0,,Follow the road.
+56.0,s,"turn left, then turn right at the intersection"
+56.0,s,Continue going straight and then take the first right turn when available
+57.0,,switch to the left lane
+57.0,d,"Go straight, even once you see the individual crossing the crosswalk. Once passed the crosswalk, switch to the left lane."
+57.0,s,"turn right, then slide into the left lane"
+57.0,s,Take a right turn and then continue going straight.
+58.0,s,Keep going straight and then switch to the left lane and take a left.
+58.0,,turn left at the intersection 
+58.0,s,Switch to the left lane once passing the parked vehicles that are on the left lane. Then take the first left
+58.0,,"switch to the left lane, turn left"
+58.0,s,slide into the left lane then turn left.
+60.0,,wait for the prius to move forward
+60.0,d,Start moving forward slowly when the vehicle in front of you starts to move.
+61.0,,turn left follow the white van
+61.0,s,Take the left turn and merge on to the road.
+61.0,d,Follow the white van.
+61.0,,turn left
+61.0,s,slide into the left turing lane then turn left
+61.0,d,Follow the vehicle in front of you.
+61.0,,Switch to the left lane.
+62.0,,side to the left lane
+62.0,,switch to the left lane
+62.0,,merge one lane over to the left
+62.0,s,Keep going straight and then switch to the left lane
+63.0,d,Follow the vehicle in front of you.
+63.0,s,Stop right before the intersection.
+63.0,,"slow down and stop, once road is clear continue straight. "
+63.0,,stop at the intersection then proceed with caution
+65.0,s,turn right at the intersection
+65.0,,turn right
+65.0,,take a right here and continue straight
+65.0,,Make a right turn and go straight
+65.0,s,Take the right turn and then keep going straight.
+66.0,d,"Slowly move forward when there are no cars approaching from behind, but stop once cars are nearby."
+66.0,d,check for incoming vehicles on left lane
+66.0,d,wait until there are no vehicles approaching from behind 
+67.0,d,Switch to the left lane once it is clear.
+67.0,s,slide into the left lane
+67.0,sd,Switch to the left lane and then keep going straight. Stop for the pedestrian. Then continue going straight.
+67.0,d,"switch to left lane, stop for incoming pedestrian, once clear continue straight. "
+67.0,d,"Stop right before the crosswalk to let the individual pass, then proceed as normal after."
+67.0,sd,",merge onto the main road and stop at the cross walk and wait for pedestrian to cross"
+68.0,,turn left
+68.0,s,Keep going straight and then take a left.
+68.0,d,Make a left turn once all cars from the left side have turned compeltely.
+68.0,d,"sow down to avoid hitting the truck, then turn left"
+68.0,,turn left at the intersection
+69.0,,turn left
+69.0,s,turn left at the intersection
+69.0,,turn left here continue straight 
+70.0,,turn left
+70.0,,Make a left turn at the intersection
+70.0,s,Keep going straight and then take a left.
+70.0,s,turn left at the intersection
+71.0,s,turn left at the intersection
+71.0,s,"When you see the construction in front of you, take the first left."
+71.0,s,Follow the road and then take a left to avoid the construction vehicle ahead.
+71.0,,turn left
+71.0,s,follow the road to the left and continue left at any obstructions
+72.0,d,Make a right turn when the white vehicle passes you from the left.
+72.0,s,Take a right turn and then continue.
+72.0,s,stop at the intersection then turn right
+72.0,d,turn right at the intersection when no vehicles are approaching 
+72.0,d,wait for incoming traffic then turn right
+73.0,s,stop at the stop sign  and turn right
+73.0,,Turn right.
+73.0,s,Go straight and then take a right turn.
+73.0,,turn right
+73.0,s,stop at the intersection then turn right
+74.0,d,let the car in the front pass then turn left
+74.0,d,Make a left turn when all vehicles from the left side pass by.
+74.0,s,Take a left turn and merge onto the road and then continue going straight.
+74.0,,turn left
+74.0,,turn left when no vehicle are approaching  from either side of the road
+76.0,,Make a right turn.
+76.0,,take two immediate right turns
+76.0,s,Take a right and then take another right.
+76.0,s,"turn right, then turn right at the next intersection"
+76.0,,"turn right, turn right"
+76.0,,Make another right turn.
+92.0,sd,continue straight and move away from obstacles and pedestrians 
+93.0,,turn right and continue straight 
+93.0,,Make a right turn into the middle lane and go straight
+93.0,,turn right
+93.0,s,turn right at the intersection
+93.0,,Take a right turn and then continue going straight.
+94.0,ds,Stop behind the vehicle in front of you.
+94.0,s,stop at the intersection behind the car
+94.0,,slow down
+95.0,ds,Start moving forward when the vehicle in front of you starts to go forward.
+95.0,d,"once vehicle in front moves, continue straight"
+96.0,d,follow the white car ahead 
+97.0,d,"once vehicle in front moves, continue straight"
+97.0,d,start moving when the car in front starts moving
+97.0,ds,Start moving forward when the vehicle in front of you starts to go forward.
+97.0,d,follow the white car ahead 
+99.0,,"Switch to the left lane once it is clear to switch, and then go striaght."
+99.0,d,"once there is no vehicles in the left lane, switch to the left lane. "
+99.0,sd,merge onto the left lane when no vehicles are approaching from behind
+99.0,s,Switch to the left lane and then keep going straight.
+99.0,d,slide into the left lane when there are no cars in the way
+100.0,d,Wait until the car in front of you starts moving and make sure that the signal is green
+100.0,s,Keep going straight and then switch to the right lane after the light.
+101.0,d,follow the car ahead and go straight 
+101.0,d,"Wait untill the signal turns green, let the car in front of you start moving, once you have started moving slide into the right lane while avoiding collision with the construction equipment on the side of the road"
+101.0,s,Switch to the right lane once you pass all objstructions on the right side of the road.
+101.0,s,Turn right and then continue going left.
+101.0,d,"once vehicle in front moves, continue straight"
+102.0,,turn right continue straight 
+102.0,ds,"Make sure there is no one person on the zebra crossing in front of you, and make that the signal is green, then turn right make sure there's no one on the second zebra crossing, continue turing right until you have entered the lane"
+102.0,d,"Keep going straight, but wait for the black van to merge on to the road."
+102.0,,Make a right turn and go straight.
+102.0,,turn right
+103.0,d,Slow down when the car from the left hand side starts to turn onto the road.
+103.0,s,"Keep going straight, slow down for the black van to merge"
+103.0,d,slow down for incoming vehicle
+103.0,d,"Pass through the yellow light, wait for the black SUV to join the lane, once it joins the lane continue driving"
+104.0,ds,"make sure that the signal light in front of you is green, when the car in front of you starts moving you can start moving, continue driving in the same lane"
+105.0,s,slide into the left-most lane and coninue driving in that lane
+105.0,d,continue following the white car ahead
+105.0,d,Keep a distance between the car in front of you.
+106.0,d,"continue driving in the leftmost lane, when the car in front of you begins to slowdown, you slowdown as well"
+107.0,d,Slow down a little to allow the bus to merge
+107.0,,go straight
+107.0,,continue straight
+108.0,d,wait for the white car to pass when the road is clear turn right
+108.0,,wait for incoming traffic then turn right
+108.0,d,Make a right turn after the vehicle form the left side has passed.
+108.0,sd,Wait for cars to pass and then turn right and keep going straight
+108.0,d,turn right when no vehicles are approaching
+109.0,s,Keep going straight around the roundabout
+109.0,s,enter the roundabout and exit out the first turn
+109.0,,Go about the roundabout and keep going straight
+109.0,,Enter the round about and keep going straight
+110.0,,go straight
+120.0,d,"Stop right before the closed toll gate, then slowly go straight when it opens"
+120.0,s,"continue going straight in the left most lane, wait for the gate to open, once open drive"
+120.0,s,Keep going straight and slow down for the bump
+120.0,d,"slow down at gate, once it opens continue straight"
+121.0,,continue driving in the rightmost lane
+121.0,s,continue straight stay on the right lane 
+122.0,,"Stop at the intersection, turn right"
+122.0,s,Keep going straight and wait for the other vehicles to pass before turning right
+122.0,d,"stop for incoming traffic, turn right"
+122.0,,Make a right turn.
+122.0,,turn right when no vehicles are approaching
+123.0,s,"Immediately after passing the parked truck on the left side of the road, switch to the left lane and make the turn."
+123.0,s,Merge to left lane and continue on that lane
+123.0,,switch to left lane
+123.0,sd,merge into the left only lane after passing the parked truck and take the left turn 
+123.0,s,"slide into the left-most lane and cexit from the main road, then continue to drive straight"
+124.0,,go straight
+125.0,,"switch to left lane, stop at intersection"
+125.0,s,Stop at the next left turn
+125.0,,"Before reaching the intersection, switch to the left lane."
+125.0,ds,slide into the left lane and stop at the intersection to let the pedestrians pass.
+125.0,,turn left at the end of the road
+126.0,d,Take the same right turn as the vehicle in front.
+126.0,d,"slow down, then turn right once near the broken line section in the middle of the road"
+126.0,d,Take a left after the white vehicle has passed by.
+126.0,,"turn left, turn right"
+126.0,d,turn left once the the car in front of you has passed
+126.0,s,Take a left turn and keep going straight and take the next right
+126.0,sd,turn left when no vehicles are approaching and follow the white car ahead turn right 
+127.0,sd,Wait for the bar to raise and the go slowly straight.
+127.0,s,go straight drive around any parked vehicles or pedestrians
+127.0,d,"slow down for oncoming pedestrians and traffic, continue straight once clear. "
+127.0,ds,"Once the gate opens, slowly proceed and continue straight while avoiding the obstacles around."
+127.0,s,"wait for the gate to open, then proceed slowly"
+128.0,s,slow down at the zebra Crossing
+129.0,,turn right
+129.0,s,Take a right turn and keep going straight
+129.0,s,"continue driving on the road, then stop at the zebra crossing and go straight."
+130.0,d,"wait for the pedestrians to cross, then continue to go straight."
+130.0,d,wait for pedestrians to cross the crosswalk and continue straight
+130.0,d,Wait for the individuals to cross the street and then proceed forward.
+130.0,d,"stop for pedestrians, once clear continue straight"
+130.0,d,Wait for the pedestrians to pass before going straight
+131.0,d,Make a left turn once the vehicle from the left passes by.
+131.0,d,"stop for on coming traffic, once clear turn left. "
+131.0,d,Wait for the white car to pass before turning left and merging onto the lane 
+131.0,d,turn left when no vehicle is approaching 
+131.0,d,"wait for the car to pass, then turn left"
+132.0,s,"stop at the intersection, turn left"
+132.0,s,turn left after the speedbump
+132.0,s,Slow down before take a left turn
+132.0,,turn left
+132.0,ds,Take the left turn that is right after the speed bump and stay on the left side to allow the oncoming car to pass.
+133.0,s,Slide back into the right lane to avoid colliding with the car in front
+133.0,s,go around vehicle
+133.0,s,"Go to the right side of the road to avoid hitting the bus on the left side of the road, and then switch back to the left once passed."
+133.0,s,drive around the parked bus
+133.0,s,Take a slight right to avoid the bus and then move back to the left lane.
+133.0,s,"slide into the right lane to avoid colliding with the bus,"
+134.0,,turn left here
+134.0,s,Stop at the intersection stopsign. Then turn left
+134.0,d,"stop for incoming traffic, once clear turn left. "
+134.0,s,"stop at the intersection, then turn right"
+134.0,sd,Wait for the white car to pass before turning left and merging onto the leftmost lane
+135.0,,go straight
+138.0,s,"stop at the crosswalk, then continue"
+139.0,,conintue on the road
+139.0,s,drive around pedestrians on the side of the road and merge into the left only lane at the intersection
+149.0,,turn left
+149.0,,turn left continue straight 
+149.0,s,Take a left turn and then continue down the road
+149.0,,turn right and continue on the road
+149.0,,Turn left and continue.
+150.0,,go straight
+151.0,s,turn right at the intersection and stay in the right lane
+151.0,s,"Before reaching the vehicle in front, switch to the right lane."
+151.0,d,follow the gray car ahead and turn right
+151.0,,turn right
+151.0,s,Make a right turn and enter the first lane
+151.0,s,Take right turn and continue down the road
+152.0,,switch to the right lane
+152.0,s,continue straight change lanes to avoid parked buses 
+152.0,s,slide into the right lane in order to avoid hitting parked busses
+152.0,s,Move to the right lane to avoid the bus
+154.0,,Finish the left turn
+154.0,sd,Take a left turn and merge onto the street. Shift slightly to the right to avoid the yellow car
+154.0,d,"complete the turn then slow down for the parkinmg car, continue slowly. Slide slightly to the left to avoid hitting the approaching car"
+154.0,d,follow the road move away from approaching vehicle in the same lane 
+154.0,,Squeeze to the leftmost side of the road to allow the vehicle in front to squeeze through the middle.
+154.0,d,"turn left, slow down for incoming traffic"
+155.0,ds,"Make a left turn, but stop at the cross walk when the individual crosses, then proceed after."
+155.0,,"turn left here, continue and turn into the left turn lane"
+155.0,sd,Take a left turn and then take another left turn on the next left.
+155.0,d,"turn left, turn left and come to a stop for incoming pedestrians"
+155.0,s,"after turing into the left lane continue along the road, then turn left in the turning lane, but first stop at the crossing and let the pedestrian cross"
+157.0,d,turn right when no vehicle is approaching 
+157.0,d,"wait until traffic is clear, turn right"
+157.0,d,"After the motorcycle drives by from the left side, make a right turn."
+157.0,s,"wait at the intersection, then turn right and continue in the left lane."
+157.0,s,Wait for the motorcycle to pass before taking a right turn
+158.0,d,Wait for the worker to remove the cone before continuing straight and then follow the truck in front
+158.0,d,"wait for pedestrians, once clear continue straight"
+158.0,d,"Once the path is clear, go straight."
+158.0,d,Follow the vehicle ahead
+158.0,sd,wait until worker moves away obstructing cone and follow the bus ahead
+158.0,d,"wait for the construction worker to remove the traffic cone and then waive the flag, once given the signal to move, proceed slowly."
+159.0,d,"wait for pedestrians, once clear continue straight. "
+159.0,d,Wait for the workers to pass before continue down the street and then merging onto the lane
+159.0,d,"Once all individuals cross the crosswalk, proceed forward."
+159.0,d,"wait for the pedestrians to cross, then slowly merge into left lanne of the main street"
+159.0,d,wait for all pedestrians to cross the road then continue 
+160.0,d,"wait for incoming traffic, once clear continue straight"
+160.0,d,"In order to merge into  the road, beign entering the street and then check on coming traffic once it is clear, merge into the street."
+160.0,d,Wait for the blue car to pass before moving to the right lane
+160.0,sd,drive around parked traffic in the left lane however only change lanes when there are no vehicles approaching from the other side of the road
+160.0,ds,"Once all vehicles on the right lane pass by, cross the double-lined road to the right side."
+161.0,d,"wait for the Jeep to pass, then slowly move forward"
+161.0,d,wait until there is no incoming vehicle from the left side
+161.0,d,Wait for the black car to pass before going down the road
+161.0,d,"Once the dark-colored vehicle has passed you, proceed forward."
+162.0,d,"turn left, wait for incoming traffic once clear turn right. "
+162.0,s,Turn left and then turn right
+162.0,d,"turn right, then turn right agai to merge into the street."
+162.0,d,Make a right turn if no cars are coming from the left side.
+162.0,sd,exit the parking lot and turn right 
+162.0,s,Make a left turn and stop right before the intersection.
+163.0,,turn right at the intersection continue straight 
+163.0,,go straight
+164.0,s,Take right turn and then go straight
+164.0,,turn right. 
+164.0,s,turn right and continue on the road
+164.0,s,Make the first right turn.
+165.0,s,slow down in the construction zone then continue moving straight along the road
+166.0,s,keep going straight and begin slowing down as we approach the stop sign.
+167.0,,continue following the road 
+168.0,,continue going along the road.
+170.0,s,Stop right next to the truck.
+170.0,,Make a left turn
+170.0,s,turn left and stop by the yellow semi truck
+170.0,s,Take left turn and then merge onto the lane and stop right before the yellow truck
+170.0,s,"turn left at the intersection, then stop near the parked Semi-truck"
+170.0,s,turn left and avoid vehicile
+171.0,s,Go left when the left lane opens up.
+171.0,,continue straight 
+171.0,s,"continue on road, avoid hitting parked vehicles"
+171.0,s,Continue down the road and move a little bit to the left to avoid the parked trucks
+172.0,s,Stop right before the bus and then turn at the incoming left
+172.0,s,"go around vehicle , turn left"
+172.0,s,"slow down ans stop for the stopped bus, once its safe to go, continue going straight and then make a left turn."
+172.0,s,drive around the blue parked bus and turn left at the end of the road 
+172.0,s,"Stop right before the blue bus, then after a brief moment continue driving."
+172.0,s,Take a left
+173.0,s,turn left at the stop sign
+173.0,ds,Stop briefly right before the intersection and turn left when there are no cars coming from either side.
+173.0,s,Turn left at the dead end
+173.0,s,keep going straight and slow down as you enter the intersection.
+174.0,,turn left
+174.0,s,Turn left and then continue going straight
+174.0,s,turn left and then continue going straight.
+175.0,s,stop at the intersectio and start moving when it is safe.
+175.0,ds,Stop at the stopsign. Take a right when the second vehicle from the left passes.
+175.0,s,Go towards the dead end and then stop
+176.0,ds,"stop at the intersection near the stop sight, let the black truck pass,then turn right."
+176.0,s,turn right at the stop sign when there are also no incoming vehicles
+176.0,ds,Stop at the stopsign. Take a right when the vehicle from the left passes.
+176.0,s,Stop at the stop sign and then turn right
+177.0,ds,"Slowly approach the gate until it opens, then proceed forward."
+177.0,s,Stop before you reach the toll gate.
+177.0,d,Stop at the gate and then continue once the gate opens
+177.0,d,"stop at the gate, move slowly when the arm rises up."
+178.0,,follow the road to the right at the fork in the road
+178.0,s,Keep going straight and then take right down hill
+178.0,,"continue driving on the road, stay on the right side."
+178.0,s,Make the second right turn and stay on the left lane.
+178.0,,turn right
+179.0,ds,"Drive slowly forward until the individual in front passes by, then go straight."
+179.0,d,"when the pedestrian passes, continue moving ahead."
+179.0,sd,Merge onto the the street after the pedestrian passes
+179.0,d,slowly move around walking pedestrian
+180.0,s,turn right and then follow the arros on the street.
+180.0,,turn right
+180.0,,Make a right turn in the parking lot and then follow the path.
+181.0,s,Wait for the gate to open and then continue straight
+181.0,s,"wait for the gate to open, then proceed slowly"
+181.0,d,"Slowly proceed forward until the toll gate opens, then proceed with normal speed."
+182.0,,go straight
+183.0,,go straight
+184.0,,continue along the road
+184.0,,continue driving up the hill
+185.0,d,take a right here and wait for the pedestrian to cross the road before continuing straight 
+185.0,d,"turn right and wait for the pedestrian to cross, once he crosses start moving forward"
+185.0,d,Turn right and wait for the pedestrians to pass before continuing straight
+185.0,ds,Make a right turn and stop before the crosswalk to let the pedestrian cross the road. Then proceed once the individual has passed.
+185.0,d,turn right and wait for pedestrian to pass by
+187.0,s,stop at the intersection 
+187.0,ds,"Slightly move to the right side of the lane to avoid hitting the person, and stop right before the stopsign."
+187.0,d,slow down for pedestrian
+188.0,d,ignore pedestrians on the side of the road
+188.0,s,continue following the road 
+190.0,s,Go straight and then stop behind the grey car
+190.0,s,stop behind the stopped car
+190.0,ds,Stop right behind the vehicle in front of you.
+191.0,,turn right continue straight 
+191.0,s,Turn right and then continue going down the road
+191.0,s,Turn right when you reach the yellow marking on the road.
+191.0,s,turn right at the T junction
+192.0,d,Make a left turn when all vehicles from the right pass.
+192.0,d,wait till the road is clear of moving cars and turn left
+192.0,sd,Wait for the cars to pass and then turn left and merge onto the road
+192.0,d,turn left when there are no vehicles approaching
+192.0,d,turn left when it is safe to do so.
+193.0,s,stop at the intersection
+193.0,ds,Stop before the intersection if the stoplight is red.
+194.0,s,"follow the road, then stop at the intersection"
+194.0,d,follow the silver car ahead 
+194.0,d,Follow the vehicle in front of you and take the same turn.
+194.0,d,Stop behind the gray car at the stoplight
+195.0,d,Pick up to normal speed once passing by the bus and the vehicle that are on the right lane.
+195.0,,continue straight on the road
+196.0,,go straight
+199.0,,go straight
+200.0,s,swerve around the container
+200.0,s,go around road obstruction
+200.0,s,Move slightly to the left of the gray container and then continue driving
+200.0,s,continue straight turn slightly right into the right lane drive around the parked truck
+200.0,s,"Right before approaching the parked vehicle in front of you, switch to the left lane to avoid hitting it."
+202.0,s,Stop at the stopsign. After a full stop proceed through the intersection.
+202.0,s,"turn right, stop at the stop sign, then continue driving"
+202.0,s,stay on the right lane when ap[racing the stop sign
+203.0,d,turn right wait for incoming pedestrian
+203.0,sd,Drive to the left and wait for the pedestrian to pass before continuing to drive
+203.0,ds,"stop at the zebra crossing wait for the pedestrian to cross, then continue driving"
+203.0,d,"turn right here, wait for pedestrian to cross the road and continue straight"
+203.0,d,Stop right before the crosswalk to let the individual pass through. Then proceed forward as normal.
+204.0,,go straight
+206.0,s,"slow down at the intersection, do a slight left turn."
+206.0,s,Slow down before turning to the left
+207.0,s,Stop right before the crosswalk.
+207.0,d,Slow down before approaching the vehicle in front of you and proceed as normal once the vehical makes its turn.
+207.0,d,follow the white truck ahead 
+207.0,d,"slow down when approaching the turning truck, once it turns come to gradual stop"
+208.0,d,"wait for all the cars on the left side to pass, then continue driving."
+208.0,d,Wait for the cars to merge onto the street before going straight
+208.0,ds,Cross the crosswalk once all cars have merged onto the road
+208.0,d,wait  until there are no approaching cars and pedestrians
+209.0,,follow the road
+209.0,s,stay in the right lane of the road
+210.0,s,Slow down and move little to the left to avoid the other trucks and then turn left
+210.0,,Drive around the vehicle slightly on your lane and take a left at the end of the road.
+210.0,s,"slow down near the intersection, once you cross the intersection turn left."
+210.0,,turn left
+210.0,s,continue straight drive around any obstructing vehicles and turn left at the end of the road
+211.0,s,Turn left  and then stop for a little bit before heading down the road
+211.0,s,complete the turn then continue going straight
+212.0,d,"slow down, and let the truck pass, then continue going straight"
+212.0,d,Slow down for a little bit to avoid the truck and then continue driving down the road
+212.0,d,Slow down and move to the right to avoid the front car hitting you when the vehicle in front of you starts to enter your lane from the left side.
+213.0,s,slow down and stop at the intersection
+213.0,,Stop right before the intersection.
+218.0,d,wait for pedestrians
+218.0,d,Do not move as long as there are individuals in front of you.
+219.0,d,Stay stopped before the intersection if there are cars approaching from the left and right sides of the road.
+220.0,ds,Slow down before the crosswalk to allow the individuals to cross the street.
+220.0,ds,Slow down right before the intersection to allow the white vehicle fully make its turn. Then proceed as normal.
+220.0,s,slow down and stop at the intersection
+221.0,ds,Make the left turn once the group of individuals have crossed the crosswalk.
+221.0,ds,At the intersection turn left when the pedestrians have finished crossing
+221.0,d,turn left and wait for pedestrians
+221.0,sd,Slow down and wait for the people to cross before turning left
+222.0,d,Proceed forward if the traffic controller on the road gestures to move forward.
+224.0,ds,Stop before the intersection to let all individuals cross the road. Stay stopped due to the red light at the intersection.
+224.0,s,stop at the intersection
+225.0,ds,Make a right turn once the stoplight turns green.
+225.0,,turn right
+225.0,sd,Stop at the stoplight and wait for the people to cross before turning right
+227.0,s,stop at the intersection
+228.0,ds,"Slow down and stop before the intersection if the stoplight is red, but proceed with normal speed once it turns green."
+230.0,s,Slow down and move to the left a little to avoid the construction zone 
+230.0,s,Switch to the left lane to avoid the constriction on the right lane.
+230.0,s,slow down and move into the left lane to avoid hitting the traffic cones
+230.0,s,go around road obstruction
+230.0,ds,Slow down before approaching the crosswalk to allow all individuals to cross the street.
+231.0,ds,stop in front of the zebra crossing and let all the pedestrians cross
+231.0,ds,Stay stopped before the crosswalk as along as individuals cross it.
+231.0,d,wait for walking pedestrians
+234.0,d,turn right after the truck passes
+234.0,ds,"Once the stoplight has turned green and once the truck has passed through the intersection, make a right turn. Complete the right turn even if there are individuals starting to cross the street."
+234.0,s,Stop at the crosswalk and then turn right and continue going straight
+234.0,,turn right
+235.0,s,stop behind the stopped truck
+236.0,d,Follow the truck in front of you while maintaining a safe distance.
+237.0,s,"turn left to avoid hitting the parked truck, then stop at the intersection"
+237.0,s,Move a little to the left to avoid the truck and then stop at the stoplight
+237.0,ds,"Move to the left lane because the right lane is blocked by two cars, and stop right before the intersection if the stoplight is red."
+238.0,s,Stop at the curb on the right side of the road right before the crosswalk.
+238.0,s,pull up beside the curb
+238.0,s,Slow down and move towards the curb on the right and then stop
+238.0,,stop beside the curb
+239.0,s,Stay stopped on the curb that is right before the crosswalk.
+240.0,d,enter the left lane after all the vehicles pass
+240.0,ds,"Once all individuals cross the crosswalk and once all vehicles from behind have passed, safely go back onto the road onto the leftmost lane."
+240.0,,merge back into the road
+240.0,s,Merge to the left lan and then continue straight
+242.0,ds,Stay stopped before the intersection if the stoplight is red.
+243.0,s,stop behind the stopped car
+243.0,d,Slow down and stop right before approaching the vehicle in front.
+244.0,d,Slow down and stop right before approaching the vehicle in front.
+244.0,s,stop behind the stopped car
+246.0,s,Merge to the left lane to avoid the stopped card and then continue straight
+246.0,s,Switch to the left lane to avoid the parked vehicle on the right lane.
+246.0,s,swtich to the left lane to avoid hitting parked car
+247.0,s,switch to the right lane 
+247.0,s,"After passing the intersection, switch to the right lane."
+247.0,s,Keep going straight and the move to the right lane
+248.0,ds,Stay stopped before the intersection if the stoplight is red.
+249.0,s,Turn to the right and then continue going straight down the lane
+249.0,ds,"Complete the right turn once all individuals have crossed the road, then proceed through the street but slowly come to a stop when you near the vehicle in front of you."
+249.0,s,"right right, go straight and slow down near the intersection"
+250.0,s,turn right then go straight
+250.0,d,Wait for the pedestrians to cross and then turn to the right and the keep going straight
+250.0,,turn right
+250.0,ds,Complete the rtight turn once the crosswalk is clear and go straight.
+251.0,d,Maintain a safe distance with the car in front of you
+252.0,d,Come to a slow stop when approaching the vehicle in front of you
+252.0,s,stop behind the stopped car
+253.0,d,Proceed through traffic with a safe distance from the vehicle in front of you
+253.0,d,"low down behind the stopped car, and start moving when the car starts driving"
+254.0,s,slow down at the intersection
+255.0,s,"stop at the intersection, then turn left"
+255.0,,turn left
+255.0,sd,Stop at the cross walk and then turn to the left after the gray car merges
+255.0,ds,Make a full stop right before the intersection and turn left if there are no cars approaching from the left or right side.
+256.0,ds,Switch to the rightmost lane and keep a safe distance behind the vehicles in that lane.
+256.0,d,Take a slight right to avoid the trucks and stop behind the smaller truck
+256.0,d,enter the right lane and stop behind the small truck
+256.0,,switch lanes all the way to the right
+257.0,s,Stay stopped as long as the vehicle in front of you is stopped.
+258.0,s,Slightly go on the left edge of the lane to avoid hitting the construction that is partially on the right side.
+259.0,,turn right
+259.0,d,"Make a right turn once the bus has completed its turn in the intersection, and keep a safe distance from the vehicle since it has emergancy lights on."
+259.0,ds,turn right at the intersection and slow down behind the bus
+259.0,sd,turn right and the slow down behind the bus
+260.0,ds,Stay stopped before the intersection if the stoplight is red.
+262.0,d,wait for incoming pedestrians. turn right
+262.0,sd,Turn right after the pedestrians pass
+262.0,d,Make a right turn if there are no individuals crossing the street and if no cars are coming from the left side of the road.
+262.0,d,once the pedestrian crosses turn right
+263.0,d,"Slow down when the vehicle in front of you starts to turn, but proceed to normal speed once the vehicle is out of your lane."
+268.0,s,Shift to the right lane
+268.0,s,enter the right turning lane
+268.0,ds,"Change to the right lane when it appears, and make a right turn while keeping a safe distance with the vehicle in front."
+269.0,s,Turn left and then continue down the road
+269.0,,Make a left turn and go straight.
+269.0,s,turn left at the intersection and continue going on the road
+270.0,s,stop at the intersection 
+270.0,ds,"Make a full stop before entering the intersection. Once all cars from the left and right side have crossed the road and once the individual ahead crosses the street, proceed forward."
+271.0,ds,"Before approaching the next stopped vehicle ahead, stop to let the vehicle approaching you pass by."
+271.0,s,go around stationary vehicle and come to a complete stop
+271.0,s,"Move around the vehicle in front by slightly going on the right lane, then switch back to the left lane."
+271.0,s,Pass the stopped car and then stop
+271.0,s,"swerve around the stopped car, then come to a stop behind the orange car"
+272.0,s,"continue going straight, then turn left at the turn"
+272.0,d,"Once the vehicle on the right lane has passed you, proceed to move forward"
+272.0,s,Continue down the road and then take a left
+272.0,,Make a left turn and go straight.
+272.0,,turn left
+273.0,s,"Briefly switch to the right lane to avoid the parked car in front, then switch back to the left lane."
+273.0,s,swerve around the parked car
+273.0,s,Shift to the right lane and then back to left lane and then back to the right lane
+274.0,d,"Slow down when you see the individual crossing the road, but go to normal speed after."
+275.0,s,"go straight, stop at the intersection"
+275.0,s,Stop at the stoplight
+276.0,d,When the stoplight is green go straight.
+276.0,s,"After crossing the intersection, switch to the right lane."
+277.0,s,Continue down the road and then take a right
+278.0,,Make a right turn.
+278.0,ds,"slow down to avoid hitting the scooter, then turn right at the intersection"
+278.0,,turn right
+278.0,ds,Slow down when passing by the motorcycle near the lane.
+283.0,,Make a right turn and go straight.
+283.0,,turn right
+283.0,s,"turn right at the intersection, then stop at the next intersection"
+283.0,s,Take a right and then stop at the stop sign
+284.0,d,Make a left turn when the traffic controller gestures his arm to the left side and then go straight.
+284.0,,turn left
+284.0,s,turn left and then go straight
+284.0,s,Take a left at the stop sign and then continue going down road
+285.0,ds,"After almost crossing the intersection, slightly move to the left side of the road to avoid the individual walking toward the vehicle. Go to the right lane after"
+286.0,s,Make a right turn into the middle lane and go straight.
+286.0,s,"turn right, then go straight"
+286.0,,turn right
+286.0,s,Take a right and then continue down the road
+287.0,s,Go straight but stop when before entering the intersection when you see the red stoplight.
+288.0,s,stop at the intersection
+292.0,s,Switch to the left lane to avoid the obstruction on the road.
+292.0,s,slide into the left lane to avoid hitting the parked vehicle
+292.0,s,Shift to the left lane to avoid the stopped vehicles and then continue down the road
+292.0,,go around road obstruction
+293.0,s,lide to the right lane to avoid hitting the parked car
+293.0,s,Shift to the right lane and then continue down the road
+293.0,d,"After passing the mail truck, switch to the right lane."
+293.0,s,Switch to the right lane again after passing all of the construction on the right side.
+294.0,s,Stop at the intersection
+294.0,s,stop at the intersection
+296.0,s,turn right ar the intersection when it is safe
+296.0,,turn right
+296.0,d,Make a right turn when the stoplight turns green.
+296.0,s,Take a right turn
+297.0,d,wait for walking pedestrians
+297.0,d,"wait for the pedestrians to cross, then turn right"
+297.0,d,Wait for the pedestrians to pass and then continue down the road
+297.0,ds,"Stop before the crosswalk to allow individuals to cross the road, then continue one they have passed."
+298.0,s,Make a right turn at the intersection.
+298.0,s,turn right at the intersection
+298.0,s,Turn right and then continue down the road
+298.0,,turn right
+300.0,s,Shift to the left lane
+300.0,s,Switch to the left lane when it appears.
+301.0,s,stop at the intersection
+303.0,s,stop at the intersection behind the truck
+305.0,,Change to the right lane.
+305.0,s,slide into the right lane
+305.0,sd,Shift to the right lane and then left the truck pass behind and then continue down the road
+317.0,s,swerve around the parked vehicle
+317.0,s,Go around the vehicle in front of you by briefly switching to the right lane and then back to the left lane.
+317.0,s,go around road obstruction
+317.0,ds,"Make the second left turn, but only cross once all pedestrians have crossed the crosswalk."
+317.0,d,Shift to the right to let the blue bus pass and then take a right turn
+318.0,ds,"After the vehicle from the right side has passed, briefly switch to the right lane to avoid the parked bus on the left lane."
+318.0,s,swerve around the parked vehicle
+318.0,d,Shift to the right to let the yellow bus pass and then continue
+318.0,s,go around road obstruction
+321.0,s,"when the light turns green, go straight"
+324.0,s,"slow down to avoid hitting the car in front, then continue driving"
+328.0,s,Take a right turn and then take another right
+328.0,s,turn right go straight then turn right again at the intersection
+328.0,,Make another right turn
+328.0,,Make a right turn
+328.0,,"turn right, turn right"
+329.0,s,"urn left and enter the road, continue driving straight onthe road."
+329.0,s,Briefly move to the left side of the road to go around the parked vehicle in front of you.
+329.0,s,go around road obstruction
+330.0,s,"turn right, go straight then pull over to the side of the road and come to a stop"
+330.0,s,Turn to the left and then stop at the curb
+330.0,,stop beside the curb
+330.0,s,Make a left turn and stop at the curb in front of the building on the right.
+331.0,d,Pass the intersection once all cars have passed by
+331.0,s,Take a left turn and then continue down the road
+331.0,d,turn right at the intersection once all the vehicles have passed and it is safe to turn
+332.0,d,Wait for the pedestrians to pass and then continue down the road
+332.0,d,"once all the pedestrains pass, drive straight ahead"
+332.0,ds,Move forward once the individuals have crossed the crosswalk
+332.0,d,wait for pedestrians 
+345.0,s,turn right and then go straight
+345.0,,turn right
+345.0,s,Take a left turn and then continue down the road
+345.0,ds,Make a right turn when the stoplight turns green and continue down the road
+346.0,s,when the signal turns green continue going straight
+347.0,s,stop at the intersection and go when the light turns green
+347.0,s,"Briefly switch to the right lane to avoid the cars in front of you, then switch back to the original lane."
+347.0,sd,Shift to the left lane and then stop at the stoplight then continue when the lights turn green
+348.0,,turn right
+348.0,s,turn right and then slide to the left lane then turn left at the intersection
+348.0,s,Turn to the right and then shift to the left lane and then take a left turn slowly
+348.0,,Make a right turn
+348.0,s,Switch to the left lane and make the first left turn
+349.0,s,go around road obstruction
+349.0,s,Shift to the opposing lane to avoid the white car and then move back to the left lane
+349.0,s,swerve around the parked car and continue going straight
+349.0,ds,"Once the vehicle in front of you has passed, briefly move to the right lane, and move back to the left lane once you have passed the parked car."
+350.0,s,Take a left turn
+350.0,s,turn left at the T-junction
+350.0,s,Make the first left turn possible
+350.0,,turn left
+351.0,,turn left
+351.0,s,Make a left turn after the stopsign.
+351.0,s,"complete the left turn, then stop at the intesection and continue to drive."
+351.0,,turn left at the end of the road
+351.0,s,Take a left turn at the end of the street
+352.0,s,complete the left turn and stay on the current road.
+352.0,s,Take a left turn and then continue down the road
+352.0,d,follow the truck ahead
+353.0,s,Stop at the stoplights
+353.0,s,"go straight, then stop at the intersection"
+355.0,d,when the construction worker takes the cone in front of the car and gets out the way drive forward
+355.0,ds,"Once the construction man removed the cone in the middle of the lane, continue forward."
+355.0,d,Wait for the cone to be removed by the worker and then continue down the road
+355.0,s,continue straight once the cone is removed
+355.0,ds,wait till the cone is removed by the worker
+356.0,s,"go straight, stop at the intersection"
+358.0,sd,Take a right turn after all the cars and people pass
+361.0,s,Merge on to the road and take a left turn
+361.0,,turn left merging onto the road when there is no oncoming traffic
+361.0,s,"stop at the intersection, then turn left"
+361.0,,turn left
+362.0,,turn left
+362.0,,continue straight and take the first left
+362.0,s,slow down at the intersection then turn left
+362.0,s,Turn left at the intersection
+362.0,s,Make the left turn that is after the speedbump.
+363.0,,turn right
+363.0,s,Turn right at the intersection and then continue down the road
+363.0,s,Make a right turn and stay in the right lane
+363.0,s,turn right at the intersection 
+363.0,s,turn right at the t-junction and stay in the rightmost lane
+365.0,s,drive around the park truck 
+365.0,s,"Before approaching the parked vehicle in front, briefly stay between the middle of the road. Once passed the parked vehicle, go back to the left lane."
+365.0,s,Shift to the right to avoid the parked truck and the move back
+365.0,s,move into the right lane slightly to avoid hitting parked truck
+366.0,d,"when the car infront moves ahead, move into the intersection, then check oncoming traffic, once oncoming traffic is clear turn right."
+366.0,sd,Turn right after all the cars pass
+366.0,ds,Make a right turn at the intersection once all cars have passed
+366.0,d,when there are no approaching cars turn right
+366.0,,turn right
+367.0,,turn right into the connecting road
+367.0,s,turn right at the intersection
+367.0,,turn right
+367.0,s,Make the first possible right turn
+367.0,s,Turn to the right and then continue down the road
+368.0,s,Stop at the stoplights
+368.0,s,stop at the intersection
+369.0,sd,Turn to the right after all the cars pass
+369.0,d,when there are no approaching vehicles turn right
+369.0,s,Make a right turn at the intersection
+369.0,s,"top in the middle of the intersection, then turn right"
+369.0,,turn right
+370.0,,merge into the left lane
+370.0,s,Switch into the left lane after passing the construction cones.
+371.0,s,stop at the intersection
+371.0,s,Stop at the intersection
+372.0,,Make a left turn
+372.0,s,Make a right turn at the intersection
+372.0,,turn left
+372.0,sd,Take a left turn when all the cars pass
+372.0,s,at the stop sign turn left
+372.0,s,turn left at the intersection then stop near the dotted line
+373.0,d,stop to avoid hitting the minivan
+373.0,d,wait for the car to finish parking
+374.0,d,move once the car finishes parking
+377.0,d,slide in the left turning lane and then turn at the intersection
+377.0,s,Shift to the left lane and then take a left'
+377.0,s,turn left after the caution sign
+377.0,s,Switch to the left lane when the lane markings appear and then make the left turn
+378.0,,Switch to the right lane and cotinue straight
+379.0,s,Take a left lane and then shift slightly to the right then back to the same lane and then continue down the road
+379.0,s,go around road obstruction
+379.0,s,"Before approaching the parked vehicle in front, briefly stay between the middle of the road. Once passed the parked vehicle, go back to the left lane."
+379.0,d,turn left at the intersection
+380.0,ds,go around road obstruction but wait for oncoming traffic
+380.0,s,stop to avoid hitting stopped car
+380.0,d,Stop behind the black car and then wait for the blue car to pass
+380.0,d,wait until there are no approaching vehicles 
+380.0,ds,Stop before the parked cars and switch to the right lane when the vehicles in front pass.
+381.0,s,Take a right turn and then continue down the road and then take a right turn
+381.0,,turn right here and continue straight and take the next right
+381.0,,turn right
+381.0,s,Make a right turn at the intersection
+381.0,s,"complete the right turn, then take a right at the next intersection"
+382.0,,Make a left turn
+382.0,,turn left here 
+382.0,,cmplete the left turn
+382.0,s,Take a left turn and then continue down the road
+383.0,s,turn left at the fork in the road and continue straight
+383.0,,turn left
+383.0,s,Take a left turn and then merge onto the street
+383.0,,Make a left turn and continue
+383.0,,turn right at the intersection
+383.0,s,turn left at the intersection
+384.0,,turn right
+384.0,s,Stop at the intersections and then take a right turn
+384.0,s,at the intersection turn right
+384.0,s,Make a right turn after stopping at the stopsign.
+384.0,s,"stop at the intersection, then turn right"
+385.0,,"turn left, turn left"
+385.0,s,Make a left turn immediately after passing the blue sign on the left.
+385.0,,Make a left turn
+385.0,s,turn left at the fork
+385.0,s,turn left at the intersection
+385.0,s,Take a left turn and then take another left turn
+386.0,,turn left
+386.0,s,stop at the intersection then turn left
+386.0,s,Make a left turn once the stoplight turns green.
+386.0,,turn left at the intersection
+386.0,s,stop at stop light and then take a left turn
+388.0,d,stop behind the blue car then move forward slowly mainting a distance
+391.0,s,Take a right turn and then continue down the road
+391.0,s,turn right at the intersection
+391.0,ds,Make a right turn at the intersection that has flashing stoplights.
+391.0,,turn right at the intersection
+391.0,,turn right
+392.0,s,Shift to the right lane
+392.0,,continue after the intersection
+392.0,s,slide into the right turning lane
+392.0,s,"After passing the white bus on the white lane, switch to the right lane."
+393.0,s,turn right at the intersection
+393.0,,turn right
+393.0,s,Take a right turn and then continue down the road
+393.0,,Make a right turn and continue straight
+397.0,,Turn left when there are no incoming cars
+397.0,,turn left
+397.0,ds,Make a left turn once it is clear it in the intersection
+397.0,ds,"move forward slowly, at the intersection turn left when oncoming car turns right"
+397.0,sd,Take left turn after all the cars have passed
+398.0,d,Overtake the vehicle in front of you once they hand gesture to you to pass
+398.0,sd,Shift to the opposing lane to pass the white car and then move back to the right lane
+398.0,d,go around moving vehicle
+398.0,d,swerve around the car in front of you
+399.0,d,Do not take a right turn until all cars have passed.
+399.0,s,stop at the intersection
+400.0,d,Do not take a right turn until all cars have passed.
+401.0,s,turn right at the intersection
+401.0,,turn right 
+401.0,sd,Take a right turn after all the cars have passed and then continue down the road
+401.0,d,Make the right turn at the intersection once all vehicles have passed.
+401.0,,turn right
+405.0,s,turn right at the intersection
+405.0,s,Make a right turn at the intersection and stay on the leftmost lane.
+405.0,,turn right
+405.0,s,Shift to the right lane and then take a right
+405.0,,turn right at the intersection 
+408.0,s,go around road obstruction
+408.0,ds,"Switch to the right lane when you see the vehicle in front of you has emergancy blinkers on, then switch back to the left lane once you have passed"
+408.0,s,Slow down behind the gray car and then shift to the right and pass the gray car then move back to the left lane
+408.0,s,drive around the stopped gray car
+414.0,,Make a right turn
+414.0,s,turn right at the intersection
+414.0,,Turn right into the connecting street and follow the white van
+414.0,,turn right
+414.0,s,Take a right turn and continue down the road
+415.0,s,tn right at the intersection
+415.0,s,Take a right turn and continue down the road
+417.0,s,Shift to the opposing lane to pass the white car then move back to the left lane
+417.0,s,"Before approaching the parked white vehicle in front, switch to the right lane and after passing switch back to the left lane"
+417.0,s,swerve around the parked car
+417.0,s,drive around the parked white van when there are no incoming vehicles
+417.0,s,go around road obstruction
+418.0,s,stay on the current road
+419.0,s,Stop at the stopsign
+419.0,s,complete the left turn then stop at the intersection
+419.0,s,Stop at the stop sign
+420.0,,keep to the left and stay in the left turn only lane
+420.0,s,"follow the road, then stop at the intersection"
+420.0,,turn left
+420.0,s,Switch to the left lane when it appears
+421.0,,Make a left turn
+421.0,s,turn left at the intersection
+421.0,ds,Stop right before the tollgate if it is closed and continue when it opens
+421.0,s,Take a left turn at the end of the street
+421.0,,turn left 
+421.0,,turn left 
+422.0,d,"Briefly switch to the right lane to avoid the cars in front of you, then switch back to the original lane."
+422.0,s,drive around the parked car
+422.0,s,Shift to the right to pass the parked black car then head to the intersection
+422.0,s,go around the road obstruction
+423.0,,turn left
+423.0,s,"stop at teh intersection, then turn left at the intersection"
+423.0,ds,Stop at the intersection and make a left turn when it is clear
+423.0,sd,Wait for the cars to pass then take a left turn
+423.0,,turn left at the intersection 
+425.0,s,"turn left, then turn left at the next intersection"
+425.0,d,turn left at the fork in the road and turn left where the bus is coming from
+425.0,,Make a left turn
+425.0,,Make a left turn again
+425.0,,turn left
+425.0,s,Take a left turn and then merge on to the lane
+426.0,,turn left
+426.0,,complete the left turn
+426.0,s,Take a left turn and then continue on the road
+426.0,,turn left here and continue
+427.0,d,stop behind the car in front of you
+427.0,s,get behind the car ahead of you
+428.0,,turn right
+428.0,,continue on the road and keep right
+428.0,,slight right at the fork and continue straight 
+428.0,d,continue moving forward when the bus goes out of th way
+429.0,s,Take a right turn and then continue on the road
+435.0,s,turn right at the intersection and merge onto the far left lane immediately
+435.0,,turn right at the intersection and merge into the left turn lane
+435.0,,turn right
+435.0,d,turn right once the car passes then stop of the next intersection
+435.0,s,Stop at the intersection then take a right then stop at the stoplight
+435.0,ds,Make a right into the far left lane after the car on the left has crossed the intersection.
+436.0,s,Take a left and then shift to the right lane and stop at the stoplight
+436.0,sd,turn left here and when no approaching cars merge onto the right lane
+436.0,d,complete the left tunr and stop behind the parked car
+436.0,,turn left
+436.0,,turn left at the intersection and merge into the right lane
+436.0,s,Turn into the far left lane.
+436.0,d,Switch to the right lane after the black car on the right has passed.
+440.0,s,Come to a stop at the red stopsign.
+440.0,s,stop at the stop sign
+441.0,,slide into the right lane
+441.0,,merge onto the right lane
+441.0,s,Stop at the stop signs then continue 
+441.0,s,"After crossing the intersection, change to the right lane."
+441.0,,switch to right lane
+443.0,d,drive around the stopped black truck ahead of you when there are no approaching cars from the other lane
+443.0,s,go around road obstruction
+443.0,sd,when there are no approaching vehicles drive around the stopped truck
+443.0,d,"stop behind the stopped truck, then swerve around the truck, avoid hitting oncomig traffic"
+443.0,sd,Stop behind the truck and then wait for the opposing cars to pass then pass the stopped truck
+443.0,ds,"Once all cars from the left side pass you, briefly go onto the left lane to go around the stopped vehicle in front."
+446.0,,turn left at the intersection and left again at the next intersection
+446.0,,Make a left turn at the intersection
+446.0,s,"make a left turn at the intersection, then make another left turn at the next intersection"
+446.0,s,Turn left and then take the next left
+446.0,,Make the next left turn possible
+446.0,,turn left and turn left again at the intersection 
+446.0,,"turn left, turn left"
+447.0,,turn left here
+447.0,,turn left into the parking lot
+447.0,,turn left
+447.0,d,Make a left turn once all vehicles from the left side have passd.
+447.0,sd,Take a left after waiting for the cars to pass
+447.0,d,"turn left, wait for the oncoming traffic to stop, then complete the left turn"
+448.0,s,move into the left lane
+448.0,s,follow the road to the left
+449.0,s,Turn to the left at the dead end
+449.0,s,Make a left turn when the road comes to an end.
+449.0,s,turn left at the end of the road
+449.0,s,turn left near the barricades
+449.0,,continue on this road turn left at the end of the road
+449.0,,turn left
+451.0,s,Take a right turn and then continue down the road
+451.0,,turn right at the intersection 
+451.0,,turn right
+451.0,s,turn right at the intersection
+451.0,,turn right here
+452.0,,turn right
+452.0,s,turn right at the stop sign
+452.0,,at the stop sign run right 
+452.0,s,Stop at the stop signs then turn to the right
+452.0,,Make a right turn
+452.0,s,Stop at the stopsign
+452.0,s,stop at the intersection then continue
+453.0,s,Sop at the stopsign
+453.0,d,Make a left turn once all cars have passed the intersection
+453.0,s,Turn to the right and stop at the stop signs
+453.0,,turn right
+453.0,,turn right here
+453.0,s,trn right and stop at the intersection
+454.0,s,Turn to the left and the continue straight
+454.0,s,"turn left, go straight"
+454.0,,turn left at the stop sign 
+454.0,sd,turn left at the stop sign continue straight and drive away from the stopped truck and pedestrian
+454.0,,turn left
+456.0,s,turn right at the roundabout
+456.0,s,Make a right turn at the intersection
+456.0,,keep right at the intersection
+456.0,s,Take a right turn and then continue going straight
+457.0,s,Stop at the stop sign
+457.0,s,turn right and stop at the intersection
+457.0,s,Stop at the stopsign
+457.0,,turn right
+457.0,,turn right here
+458.0,,turn left
+458.0,s,trn left at the intersection
+458.0,s,Turn to the left and then continue straight
+458.0,s,turn left at the stop sign
+458.0,,Make a left turn and continue straigt
+461.0,s,Make a right turn into the middle lane
+461.0,,turn right
+461.0,,turn right at the intersection
+461.0,,turn right here
+461.0,s,turn left at the intersection
+465.0,d,Go straight when the stoplight turns green
+468.0,d,Go straight when the stoplight turns green
+474.0,,change lanes to the right
+474.0,s,slide into the right lane
+474.0,s,Shift to the right lane and then continue
+474.0,s,Move into the far right lane after passing the big white vehicle on the right
+474.0,s,drive around the parked car
+475.0,,turn right
+475.0,,turn right at the intersection
+475.0,,Make a right turn at the intersection
+475.0,s,turn right at the intersection
+475.0,ds,turn right at the intersection and slow to avoid hitting the car in front 
+475.0,s,Take a right turn and then stop behind the black car
+476.0,d,Make a right turn at the green stoplight
+476.0,,turn right at the intersection
+476.0,s,Take a right turn and then continue
+476.0,,turn right
+476.0,s,turn right at the intersection and go straight
+476.0,s,turn right at the intersection
+477.0,d,stop behind the black car at the intersection
+479.0,d,follow the black car in front of you 
+479.0,s,Shift to the left lane and then stop
+479.0,s,Switch into the left turning lane when it appears
+500.0,,Make a left turn at the intersection
+500.0,,stay in the left turn lane and at the signal turn left
+500.0,ds,Turn left 
+500.0,s,turn left at the intersection 
+500.0,s,turn left at the intersection
+500.0,s,Take a left turn at the stoplights
+500.0,,turn left
+501.0,ds,Slow down to avoid hitting pedestrian
+501.0,,continue on this road
+502.0,s,Take a right turn and then continue down the road and stop behind the black car
+502.0,,turn right
+502.0,,turn right at the intersection
+502.0,d,Proceed with caution avoiding the pedestrian and slow down to maintain a safe distance behind the vehicle ahead
+504.0,d,Follow vehicle ahead and stop to maintain a safe distance
+505.0,d,Follow the vehicle ahead
+507.0,s,slow down near the construction zone
+507.0,d,Be cautious of the pedestrians on the road and stay on the left side of the lane
+507.0,d,"Following the vehicle ahead, proceed with caution maintaining a safe distance to avoid hitting the two pedestrians"
+507.0,d,follow the road slow down for pedestrians
+508.0,s,exit the roundabout on the second exit 
+508.0,,at the roundabout take the second exit
+508.0,,go straight at the roundabout
+508.0,s,cross the round about
+510.0,,turn left
+510.0,s,Take a left turn at the dead end and then continue down the road
+510.0,,turn left
+510.0,,Make a left turn and go straight
+510.0,,turn left here
+510.0,s,Make a left turn
+510.0,,take a left here
+512.0,,turn right
+512.0,,keep right and take the first right
+512.0,s,Take a right turn and then continue down the road
+512.0,,turn right
+512.0,s,continue right
+513.0,s,Make a right turn
+513.0,,turn right here
+513.0,s,Take a right turn and then continue down the road
+513.0,s,turn right at the intersection
+513.0,,Make a right turn and go straight
+513.0,,turn right
+514.0,ds,"When the stoplight is green, attempt to make a left turn while"
+514.0,d,wait for the oncoming traffic to pass
+514.0,d,Slowly move forward and wait for oncoming traffic to pass
+514.0,,turn right
+515.0,s,Stop behind the gray car
+515.0,ds,Continue straight and stop at a safe distance behind the car ahead
+515.0,s,go straight and stop behind the parked car
+517.0,d,follow the gray car until the intersection and then continue going straight
+517.0,ds,Continue straight while maintaining a safe distance between the car ahead
+518.0,,Make a left turn at the internsection once it is clear.
+518.0,d,"stop at the intersection, turn right and then swerve around the car to go straight"
+518.0,,turn left at the traffic light
+518.0,d,"turn left, go around the vechile"
+518.0,d,Turn left. Slow down to avoid the car pulling into traffic and go around when it's stopped. Stop behind the loading car
+518.0,sd,turn left when there are no approaching vehicles 
+518.0,sd,take a left turn and then shift to the left slightly and stop behind the people unloading the car
+520.0,d,Slow down to let the vehicle ahead turn 
+521.0,ds,Slow down before the crosswalk to allow the pedestrians to cross
+521.0,d,"Slow down to let the pedestrians cross, continue straight when all pedestrians aren't an obstacle on the lane"
+521.0,d,Slowdown to allow the people to cross the crosswalk
+522.0,s,Take the roundabout and then continue going straight
+523.0,ds,In the roundabout take the second exit
+523.0,d,follow the car ahead through the roundabout 
+523.0,,cross the round about
+523.0,,go straight at the roundabout
+524.0,d,Switch into the right lane before appraoching the car ahead of you
+524.0,,go straight
+524.0,d,"Follow the vehicle ahead, and cautiously go around the vehicle that's turning left"
+524.0,d,Shift to the right of the white car and then continue going straight
+525.0,s,Turn right
+525.0,,turn right
+525.0,s,Take a right and then continue going straight and shift to the opposing lane
+525.0,,turn right here
+525.0,,Make a right turn and go straight
+525.0,,turn right here
+525.0,s,turn right at the intersection
+526.0,s,Shift to the opposing lane to avoid the cars on the right
+527.0,ds,"Continuing straight, slow down when approaching the truck stopped in the road"
+527.0,s,Go straight and then stop right before the yellow truck
+528.0,d,drive around the parked yellow truck when there are no approaching cars
+528.0,s,Move to the left of the yellow truck and then go back to the right lane
+528.0,ds,Proceed with caution going around the trucks stopped on the road
+528.0,d,"wait for the black car to pass, then pass the truck and slide into the right lane"
+528.0,s,Briefly go to the left side of the road to avoid the parked vehicle in front
+528.0,s,go around the vehicle obstructing the road
+529.0,s,Stay on the left sides of the lane to avoid hitting the cars on the right side
+529.0,s,Shift slightly to the opposing lane to avoid the cars parked to the right and then continue going straight
+530.0,,Stop at the stopsign
+530.0,s,Shift to the opposing lane to avoid the cars on the right and stop at the stop sign
+530.0,s,stop at the intersection
+531.0,s,Make a right turn and change one lane to the left
+531.0,,turn right
+531.0,,turn right
+531.0,s,Take a right turn and then continue going straight and shift to the left lane
+531.0,,Go into the left most lane when you see the markings on the row
+531.0,,Make a right turn and go straight
+532.0,s,Stop at the intersection and allow the other cars to pass
+532.0,,stop at the intersection
+533.0,s,"stop at the intersection, then continue to go straight"
+533.0,s,Stop at the intersection and then continue going straight and take a slight left
+534.0,s,Move to the center of the lane and then back to the right lane to avoid the white truck
+534.0,s,"Continue straight. Cautiously go around the truck to proceed straight, going into the oncoming lane shortly"
+534.0,s,drive around the parked truck and continue 
+534.0,s,swerve around the parked truck
+534.0,s,Briefly go on the left side of the road to pass the parked vehicle on your lane
+535.0,,Continue to the intersection while going around the construction debris
+535.0,s,Take a left turn and then shift slightly to the left to avoid the construction zone
+535.0,s,avoid the traffic cones.
+535.0,s,go around the road obstructions
+536.0,d,Make a right turn when the stoplight turns green
+536.0,d,Wait for the lights to turn green and then take a right turn
+536.0,s,turn right at the intersection
+536.0,s,"when the signal turns green, turn right on the intersection"
+536.0,,turn right
+536.0,d,Make a right turn when the light turns green
+537.0,d,Move to the curb to allow the gray car to pass and then continue going straight
+537.0,d,merge into the bike lane to let the car behind pass
+537.0,d,let the car behind you pass in front of you by pulling over to the side and then continuing back on to the road
+537.0,d,"Briefly turn to the right into the bike lane to let the car behind pass, and then merge back into the lane"
+537.0,ds,"enter the bike lane, let teh black car pass, then re-enter the road"
+537.0,d,"Briefly go on the right side of the road to let the car behind you pass, then go back into the lane."
+538.0,s,Make a right turn at the intersection
+538.0,s,"At the intersection, make a right turn and go straight"
+538.0,s,Take a right turn at the intersection
+538.0,s,turn right at the intersection
+538.0,s,turn right at the intersection
+538.0,,turn right
+539.0,d,Wait for the pedestrians to cross and then continue going straight until the stop lights
+539.0,ds,Slow down to allow the pedestrians to cross the road
+539.0,,Go straight
+539.0,d,slow down and stop for pedestrians
+539.0,d,Slow down and stop to let the pedestrians cross. Proceed when they are no longer in the lane
+539.0,d,"let the pedestrians cross, then move ahead"
+541.0,d,stop at the intersection to avoid hitting the pedestrians
+541.0,d,Stop at the stop lights and wait for the pedestrians to cross
+542.0,d,Wait at the intersection and proceed right or left when it's safe to turn
+542.0,d,Wait at the intersection if there are cars crossing the intersection from the left and right side of the road
+542.0,s,slowly approach the intersection
+544.0,d,slow down and stop for pedestrians 
+544.0,d,Stop at the intersection and allow the pedestrian to pass
+544.0,d,slow down for the pedestrians
+544.0,d,Slow down and stop to let the pedestrian and dog cross
+546.0,d,Make a right turn when the stoplight is green
+546.0,d,Wait for the light to turn green and then go
+546.0,,turn right here
+546.0,s,move ahead slowly when the signal turns green
+546.0,d,Make a right turn when the light turns green.
+546.0,d,Allow for the pedestrians to cross before continuing
+552.0,s,Take a left after all the cars pass
+552.0,sd,turn left here wait until there are no approaching vehicles from either side of the road
+552.0,s,"stop at the intersection, then turn left"
+552.0,ds,Make a left turn when there's no oncoming vehicles and go around the parked vehicle
+552.0,s,Go around the stopped vehicle in front of you
+552.0,s,"turn left, go around the road obstruction"
+552.0,d,Make a left turn when the vehicles from the left side have passed
+555.0,d,Slow Down and let the gray car overtake you
+555.0,d,Continue straight when the light turns green
+555.0,,Go straight when the stoplight turns green
+555.0,s,go straight and avoid hitting the construction cones or the barricades
+556.0,d,turn left and then stop behind the car when it stops
+556.0,,Make a left turn at the intersection
+556.0,sd,Take a left turn and stop behind the white car
+556.0,,turn left
+556.0,d,Make a left turn after the white car turns. Stop behind the white car that's stopped and unloading pedestrians
+556.0,,turn left here
+557.0,s,slide into the rightmost lane and then come to a stop at the intersection
+557.0,s,Go into the rightmost lane when it appears and stop at the red stoplight
+557.0,s,merge into the right lane
+557.0,s,Change one lane to the right to turn right at the intersection
+557.0,s,Shift to the right and lane and then stop at the stoplight
+558.0,d,Make a right turn when there are no cars coming from the left
+558.0,d,Make a right turn when there are no vehicles on-coming
+558.0,,turn right here
+558.0,d,turn right at the intersection and then stop behind the bus
+558.0,d,Take a right turn after the cars pass and then stop behind the bus
+558.0,,turn right
+560.0,s,stop at the intersection
+561.0,,turn left
+561.0,d,Make a left turn when the light turns green
+561.0,s,"when the signal turns green, turn left at the intersection"
+561.0,,turn left here
+561.0,d,Turn left when the stoplight turns green
+562.0,s,Continue straight and slow down when approaching the stopped vehicle ahead
+562.0,s,Slow down before approaching the white vehicle ahead
+562.0,d,stop behind the stopped truck
+563.0,sd,merge one lane to the right when there are no approaching vehicles 
+563.0,,switch lanes to the right
+563.0,d,swtich to the right lane when the truck is out of the way
+563.0,d,Change one lane to the right
+563.0,s,Switch to the right lane on the solid white line to avoid being in the turn lane.
+564.0,,turn right
+564.0,ds,Make a right turn turn following the truck directly ahead
+564.0,ds,move when the truck starts moving and then turn right at the intersection
+564.0,d,follow the truck ahead and turn right
+565.0,d,turn right and then stop behind the truck
+565.0,d,Follow the truck ahead. Stop at a safe distance behind the truck
+565.0,d,Follow the yellow truck ahead of you
+566.0,,Make a right turn at the intersection and go straight
+566.0,s,Make a right turn and proceed straight
+566.0,,trn right and go straight
+566.0,,turn right
+570.0,s,Make a right turn at the stop sign
+570.0,,turn right
+570.0,s,Make a full stop at the intersection then make a right.
+570.0,s,turn right at the stop sign
+574.0,s,turn left at the end of the road 
+574.0,s,"turn left, then stop at the stop sign and then turn right."
+574.0,,"turn left, turn right"
+574.0,s,"Following the road, turn left and continue until the stop sign. At the stop sign turn right"
+574.0,,Make a right turn
+574.0,s,Stop at the stopsign and make a right turn
+574.0,,Make a left turn and go srtaight
+575.0,,turn right here and continue
+575.0,,turn right
+576.0,,turn right at the intersection
+576.0,s,turn right at the intersection
+576.0,s,Make a right turn at the light
+576.0,,turn right
+576.0,,Make a right turn at the intersection and go straight
+577.0,,turn right at the intersection
+577.0,,Make a right turn and go straight
+577.0,s,Making a right turn. Continue straight 
+577.0,,turn right here
+578.0,d,Go straight when the stoplight turns green
+578.0,d,Continue straight when the stop light turns green
+578.0,,go straight
+580.0,,turn left
+580.0,s,turn left at the intersection
+580.0,,Make a left turn
+580.0,s,Make a left turn and continue straight
+580.0,,turn left
+582.0,,turn right
+582.0,s,turn right at the intersection
+582.0,s,turn right at the intersection
+582.0,s,Make a right turn when you come about to the intersection and go straight
+582.0,s,Make a right turn at the light
+583.0,s,stop at the intersection then move ahead
+584.0,d,turn right and then let the black car turn then continue
+584.0,s,turn right at the stop sign
+584.0,d,Slow down to allow the merging vehicle to get into the lane.
+584.0,ds,Make a right turn. Slow down to allow the incoming vehicle to merge into the lane.
+584.0,,turn right
+586.0,,Go into the right lane to make a right turn
+586.0,s,merge into the right turn only lane
+586.0,,switch lanes to the right
+586.0,s,enter the turning lane on the right
+586.0,s,Change one lane to the right to be in the right turn lane
+588.0,sd,turn right where there i are no approaching cars
+588.0,,turn right at the intersection
+588.0,,Make a right turn into the rightmost lane
+588.0,,turn right
+588.0,d,"When there are no incoming vehicles into turning lane, turn right and stay in the right most lane"
+589.0,s,Make a right turn and continue straight
+589.0,,turn right 
+589.0,,Switch into the middle lane
+589.0,,turn right
+589.0,,turn right at the intersection
+590.0,ds,Change lanes one to left to be in the middle lane. Continue straight when the light turns green and the bus passes the intersection
+590.0,s,"slide into the left lane and stop at the intersection, move forward when the light turns green"
+590.0,s,merge over one lane to the left
+590.0,,switch to left lane
+591.0,s,stop at the intersection
+592.0,,Make a left turn
+592.0,,turn left
+592.0,,Make a left turn
+592.0,,turn left at the intersection
+592.0,,turn left here
+593.0,,Make a right turn
+593.0,,turn right
+593.0,d,Make a right turn when all incoming vehicles have passed and all pedestrians have crossed the street
+594.0,s,turn right at the intersection and then stop at the intersection behind the car
+594.0,,turn right here
+594.0,,turn right
+596.0,ds,start moving when the car in front starts moving and then turn right at the intersection
+596.0,ds,Turn left at the stop light when the light is a green arrow
+596.0,,Make a left turn at the intersection
+596.0,s,turn left at the intersection
+596.0,,turn left
+598.0,,turn right at the intersection
+598.0,s,Make a right turn
+598.0,,Make a right turn and go straight
+598.0,,turn right here
+599.0,,turn right
+599.0,s,exit the roundabout on the first right
+599.0,,turn right at the intersection
+599.0,s,In the roundabout take the first exit
+599.0,,Take a right at the roundabout
+625.0,d,Follow the vehicle directly ahead
+626.0,s,stop at the intersection
+626.0,ds,Follow the vehicle directly ahead and enter the roundabout
+629.0,,Continue straight
+629.0,s,stop at the stopsign
+629.0,,go on the right road and go straight
+629.0,s,take a slight right and continue on the road
+629.0,s,stop at   the intersection then go straight
+630.0,s,Continue straight once at the stop sign
+630.0,s,stop at the stopsign
+630.0,s,stop at   the intersection then go straight
+632.0,,"turn right, turn right"
+632.0,s,"Following the road, turn right at the corner. Shortly after turning the corner, turn right"
+632.0,,Make a right turn
+632.0,,Make another right turn
+632.0,s,take a right the end of the road and another right at the intersection
+632.0,s,turn right and then turn right again at the next intersection
+634.0,,Make a left turn
+634.0,,turn left
+634.0,,turn left here
+634.0,s,Make a left turn
+634.0,s,turn left at the intersection
+634.0,s,Stop at the stopsign
+634.0,d,Slow down before approaching the vehicle ahead of you
+635.0,d,Stop and wait for the semi-truck to park
+635.0,d,Wait until the vehicle in front of you is not blocking the lane to proceed forward.
+636.0,,Make a right turn
+636.0,,Stop at the stopsign.
+636.0,s,take a right at the stop sign
+636.0,s,turn right at the intersection
+636.0,s,Make a right at the stop sign
+636.0,,turn right
+638.0,,Make a left turn at the itnersection
+638.0,,turn left
+638.0,sd,turn left at the intersection when there are no incoming vehicles
+638.0,d,Wait until oncoming traffic passes and make a left turn
+638.0,,turn left
+639.0,s,stop at the intersection
+640.0,s,Continue straight and stay in the middle lane
+640.0,,Go straight when the stoplight turns green
+641.0,s,slide into the right lane and stop at the intersection
+641.0,,"After crossing the intersection, switch into the right lane."
+641.0,s,"Passing the light, change one lane to the right"
+641.0,s,merge one lane over to the right after the intersection 
+642.0,,Go straight when the stoplight turns green
+642.0,d,Continue straight when the light turns green
+642.0,s,start moving when light turns green
+645.0,s,merge over one lane to the right and turn right at the intersection
+645.0,s,"slide into the right lane, stop at the intersection then turn right"
+645.0,,turn right
+645.0,d,Make a full stop at the blinking light. Turn right when the pedestrian isn't an obstacle in the turning lane
+645.0,,Make a right turn
+645.0,d,Switch to the right lane and come to a full stop at the flashing stoplights
+646.0,,turn right here
+648.0,,slide into the right lane
+648.0,s,Switch into the right lane after passing by the white large vehicle thats on the right side of the road
+648.0,s,Continue straight and change to the right most lane
+649.0,s,merge one lane over to the right and turn turn right at the intersection
+649.0,,turn right
+649.0,s,stop at the intersection
+650.0,s,stop at the red light
+651.0,d,Make a left turn at the intersection once all cars from the left side of the road have cleared
+651.0,d,Go straight on the greenlight
+651.0,d,"let the oncoming traffic pass, then turn right"
+651.0,d,turn left here when there are no approaching vehicles 
+651.0,d,Turn left when the oncoming traffic has passed
+653.0,ds,Allow the pedestrians to cross the road and continue straight when the pedestrian aren't an obstacle on current lane
+653.0,d,stop for the pedestrians
+653.0,d,Come to a stop before approaching the pedestrians to allow them to cross the road.
+653.0,d,"stop and let the pedestrians cross, then continue"
+654.0,s,Stop at the stopsign
+654.0,s,turn right and stop at the stop sign then continue
+657.0,sd,turn left at the intersection when there are no approaching vehicles from the other side of the road
+657.0,ds,Make a left turn when there's no oncoming traffic
+657.0,,turn left
+657.0,s,Make a left turn at the intersection
+657.0,s,stop at the intersection then turn left
+658.0,,turn left
+658.0,d,Make a left turn when it is safe to do so
+658.0,s,stop at the intersection then turn left
+658.0,sd,turn left at the intersection when there are no approaching vehicles from the other side of the road
+658.0,s,Make a left turn 
+660.0,s,"continue striaght ahead, avoid hitting the parked vehicles"
+660.0,s,Continue straight taking a slight left around the parked semi-truck
+660.0,,go left
+660.0,,follow the road to the left and continue straight
+661.0,s,turn left at the end of the road
+661.0,s,Make a left turn at the end of the road
+661.0,s,Make a left turn at the end of the road
+661.0,s,turn left at the barricades
+661.0,,turn left
+662.0,s,stop at the stop sign
+662.0,,Stop at the stopsign
+663.0,s,turn left at the intersection
+663.0,,Make a left turn and countinue straight
+663.0,s,Make a left turn at the stop sign
+663.0,,turn left
+663.0,,turn left here
+664.0,,follow the road
+665.0,d,Make another left turn when the vehicle from the left side crosses the intersection
+665.0,,turn left to exit the parking lot and take a left onto the main road
+665.0,,turn left
+665.0,,Make a left turn
+665.0,d,turn left stop at the intersection and move forward only when all cars have passed
+665.0,ds,Make a left turn and then take another left onto the main street if there's no oncoming traffic
+666.0,d,"Slow down to let the pedestrian cross. When the pedestrian isn't an obstacle on the road, continue straight"
+666.0,d,Slow down to allow the pedestrian in front of to complete walking across the road.
+667.0,d,drive around the parked truck and continue straight 
+667.0,s,Briefly go onto the left side of the road to avoid the parked vehicle in your lane
+667.0,ds,"Continuing straight, go around the unloading truck in the street briefly going in the opposite lane"
+667.0,s,swerve around the parked truck
+667.0,s,go around the vehicle
+669.0,,turn right here
+669.0,,Turn right at the light
+669.0,,Make a right turn into the middle lane
+669.0,,turn right
+669.0,s,turn right then go straight
+671.0,,stop at the intersection
+673.0,s,stop at the red light
+674.0,d,slow down for the pedestrian
+675.0,d,Slow down for the pedestrian in front of you
+675.0,d,proceed slowly to avoid hitting the wheelchair
+675.0,d,Slowly proceed with caution maintaining a safe distance between the moving pedestrian
+676.0,d,"Continue proceeding with caution, come to a stop before the flashing pedestrian sign and proceed when safe to do so"
+676.0,d,poceed slowly to avoid the wheelchair
+677.0,d,proceed slowly to avoid hitting the wheelchair
+678.0,d,poceed slowly to avoid the wheelchair
+679.0,d,"When the pedestrian in the wheel chair goes out to the side, cautiously go around him and continue straight"
+679.0,d,"Once it is safe to do so, pass the pedestrian on the wheelchair"
+680.0,,turn left here and drive around the parked trucks 
+683.0,d,Follow the vehicle directly ahead
+683.0,,Merge into the right lane when it opens
+685.0,,turn right at the intersection
+685.0,ds,Make a right turn when the pedestrian isn't an obstacle in the lane you're turning into
+685.0,,turn right
+685.0,,Make a right turn at the intersection
+687.0,d,turn right when there are no pedestrians 
+689.0,d,"When the light turns green, continue straight and follow the vehicle ahead"
+689.0,d,Coninue straight wehen the stoplight turns green
+695.0,d,"Continue straight, slow down to let the car turn to avoid an accident"
+696.0,d,Slow and come to a stop if needed to allow the pedestrian to cross
+696.0,d,stop and wait for the pedestrians
+696.0,d,Stop before the stopwalk to allow the pedestrian to cross the road
+697.0,d,"After the pedestrian crosses the road, continue straight"
+697.0,d,"Once pedestrian crosses and isn't an obstacle in the path, continue straight"
+700.0,s,Make a right turn at the intersection into the middle lane
+700.0,,turn right
+700.0,s,Make a right turn at the light
+700.0,,turn right here
+703.0,d,Continue straight when the stoplight turns green
+709.0,d,Go on the left side of your lane before appraoching the construction that is on the right side of your lane
+710.0,d,Come to a stop for the pedestrians acrossing the street ahead of you
+710.0,d,stop for the pedestrians
+711.0,,merge onto the left lane
+711.0,,switch lanes to the right
+711.0,,Switch to the right lane
+711.0,s,Change one lane to the right
+711.0,d,Switch back to the lane lane to avoid the construction ahead of you when no cars are coming from behind
+712.0,,"After crossing the intersection, switch to the rightmost lane"
+712.0,s,"When on the bridge, change one lane to the right"
+716.0,ds,Make a right turn at the light
+716.0,,turn right
+716.0,,turn right at the signal
+716.0,d,Make a right turn at the intersectin when the light turns green and there are no pedestrians on the road
+719.0,,turn right
+719.0,s,Make a right turn at the light
+719.0,ds,Make a right turn at the intersection when the stpolight turns green
+728.0,d,Continue straight when the stoplight turns green
+734.0,d,Proceed straight when the stoplight turns green
+736.0,s,Stop at the stopsign and then make a left turn
+736.0,s,Make a left turn at the stop sign
+736.0,,turn left
+737.0,,turn right
+737.0,s,Make a right turn 
+738.0,s,Take the second exit in the roundabout
+739.0,s,Stop at the stopsign
+740.0,,turn right
+740.0,s,Make a right turn at the intersection
+740.0,,Make a right turn
+744.0,s,Stop at the stopsign
+746.0,,go all the way to the left lane
+746.0,s,Shift to the lane on the left
+746.0,,Switch into the leftmost lane
+750.0,d,Move the car to the right to allow the oncoming vehicle to pass
+750.0,d,Proceed straight when the stpolight turns green
+750.0,d,Move the vehicle to the right to allow the truck to properly turn
+752.0,s,Go around the vehicle stopped in the road briefly going in the opposite lane
+752.0,s,go around the road obstruction
+752.0,s,Avoid the parked vehicle ahead of you by going around it on the left side and then proceed back into the same lane
+760.0,,turn right
+760.0,,Make a right tturn at the greenlight and when it is safe to do so.
+760.0,d,Make a right turn at the light when it turns green. Slow down for a small amount of time to allow the oncoming vehicle to turn into the road first
+760.0,s,"Go onto the left side of the road, if it is clear, to avoid the parked vehicle in front. Then go back onto the right side of the road."
+762.0,s,Make a right turn at the first set of lights
+762.0,s,Make a right turn at the intersection
+762.0,,turn right
+764.0,d,Keep a safe distance between the individual on the bicycle in front of you
+768.0,s,"Slightly go onto the left lane, if it is safe, to avoid the parked vehicle on the right side of your lane."
+768.0,ds,Go around the stopped vehicle on the road by going in the left lane only if it's safe to do so
+769.0,,Make a right turn at the intersection
+769.0,ds,Make a right turn at the light. Go around the stopped vehicle by going in the opposite lane only if it's safe to do so
+769.0,s,"turn right, go around the vehicle"
+770.0,,stop at the curb
+778.0,s,Make a U turn
+778.0,,Make a u-turn
+778.0,,take a u-turn
+783.0,s,Past the second set of lights change one lane to the right
+783.0,s,"Before coming to a stop at the intersection, turn to the lane with the forward marking"
+783.0,,switch to the right lane
+790.0,d,Continue straight whent the stoplight turns green
+798.0,d,Follow the grey vehicle in front of you
+799.0,d,Keep following the grey vehicle in front of you
+800.0,d,Keep following the grey vehicle in front of you
+802.0,d,Keep following the grey vehicle in front of you
+803.0,,"When it is clear to do so, merge onto the road from the parking space."
+803.0,,merge onto the road when there are no oncoming cars
+808.0,d,Continue straight when the stoplight turns green
+812.0,,switch lanes to the right
+812.0,,merge into right rurn only lane
+812.0,d,Continue straight when the stoplight turns green
+815.0,s,turn right at the signal and merge into the left most lane
+815.0,,"turn right, switch lanes to the right"
+815.0,,Make a right turn
+816.0,,take the third roundabout exit
+816.0,s,Go around the round about and make the left turn
+816.0,,turn left at the roundabout
+817.0,s,Stop at the stopsign
+819.0,,turn right
+819.0,s,Make a right turn at the intersection
+819.0,s,as the stop sign turn right
+821.0,,After crossing the first intersection stay on the left side of the road
+821.0,,follow the road
+848.0,s,Switch to the right lane to avoid the parked cars on your lane
+848.0,d,Slow down to allow the pedestrian to cross the road
+848.0,,switch to the right lane
+849.0,,switch to the left lane
+850.0,,continue going along the road
+852.0,,merge into the far left lane
+852.0,s,"switch to the right lane in order to avoid hitting the parked cars, then near the turning lanes switch back to the left lane"
+852.0,s,Change to the right lane and go back to the left lane when there are no obstructing cars
+852.0,s,Go into the left turn lane
+852.0,,switch to the right lane
+853.0,s,Go into the middle lane
+853.0,d,"slow down to avoid hitting the car(white SUV), then carefully follow that car and stop behind it."
+853.0,,turn left
+853.0,,take a right into the connecting road
+853.0,,turn left here
+854.0,d,follow the white SUV in front while maintaining a safe distance
+855.0,,turn right
+855.0,d,turn right and proceed slowly in order to avoid hitting the turning cars
+855.0,d,Allow the vehicle with the left lane blinker to merge into your lane
+855.0,,Make a right turn
+856.0,,continue on this road
+861.0,d,Make a right turn when there are no cars coming from the left side
+861.0,d,"wait for all the vehicles to pass, then carefully turn right "
+861.0,,turn right
+861.0,,turn right at the intersection
+862.0,ds,Stop before the crosswalk to allow the pedestrian to walk accross the road. Then continue once it is clear
+862.0,,stay on the far left lane and keep keft at the fork
+862.0,d,"stop at the crosswalk, let the pedestrians cross, then continue moving ahead"
+863.0,,Make a right turn
+863.0,,turn right
+863.0,s,turn right at the intersection and stay in the left lane
+865.0,,Make a right turn
+865.0,,turn right into the connecting road
+865.0,s,"Go slightly on the right side of the road to avoid the parked vehicle in front, then go back onto the lane."
+865.0,s,"turn right, go around road obstruction"
+865.0,s,"turn right at the intersection, then swerve around the parked tempo"
+866.0,,turn right 
+866.0,,keep right
+866.0,s,turn right at the fork
+868.0,,Make a right turn
+868.0,,complete the right turn
+868.0,,turn right and continue
+872.0,d,When the light turns green continue straight
+872.0,s,move ahead when the signal turns green
+876.0,d,When the light turns green continue straight
+876.0,s,when the signal turns green go straight
+878.0,s,stop at the signal
+880.0,s,turn left at the traffic signa
+880.0,ds,"Continue straight when the stoplight turns green, and after passing it, make a left turn"
+880.0,s,"when the signal turns green, turn right at the intersection"
+882.0,,turn left
+882.0,s,"turn right, when the signal turns green"
+882.0,ds,When the stoplight turns green make a left turn
+882.0,s,turn left at the signal
+883.0,s,stop at the signal
+885.0,s,go stright when the signal turns green
+885.0,d,Continue straight when the stpolight turns green
+886.0,s,stop before the crosswalk when the signal turns red
+888.0,,Make a right turn
+888.0,s,"when the signal turns green, turn right"
+888.0,,turn right
+889.0,s,stop at the signal
+890.0,d,wait for the oncoming traffic to pass ten turn left
+890.0,ds,"When the stoplight turns green, make a left turn at the intersection once all cars have passed by"
+891.0,,turn left here
+891.0,s,complete the left turn and go stright
+891.0,,turn left
+894.0,ds,Make a left turn once all of the pedestrians have crossed the crosswalk
+894.0,s,turn left at the intersection
+894.0,,turn left into the intersection
+894.0,,turn left
+896.0,s,"swerve around the parked trailer, then re-join the right lane"
+896.0,s,go around the vehicle obstructing the road
+897.0,ds,"stop at the stop sign, behind the jeep, wait for the pedestrian to cross, then go straight"
+898.0,s,stop at the signal
+899.0,s,go straight when the signal turns green
+899.0,d,When the stoplight turns green go straight
+900.0,,turn left at the interesction
+900.0,d,"When the stoplight turns greeen, make a left turn if there are no oncoming cars"
+900.0,d,"turn right at the intersection, avoid hitting the oncoming traffic"
+902.0,s,stop behind the bus at the intersection
+905.0,s,slide into the right lane
+906.0,s,Make a right turn at the intersection
+906.0,s,turn right at the intersection
+906.0,,turn right
+907.0,s,at the signal turn right
+907.0,s,complete the right turn and then stop behind the stopped vehicle
+908.0,d,"when the vehicle in front starts moving, drivbe forward"
+914.0,s,slide into the right turning lane near the intersection
+914.0,s,"Before stopping at the intersection, switch to the right lane"
+914.0,,switch lanes to the right
+915.0,,turn left here and continue 
+915.0,,turn right lef at the intersection
+915.0,,Make a left turn
+915.0,,turn left
+916.0,,"turn right, turn right"
+916.0,s,Follow the road through the parking lot
+916.0,s,"complete the right turn, then follow the road to exit the parkig lot"
+917.0,,Make a left turn at the intersection
+917.0,ds,"slow down for the pedestrians, breifly stop at the intersection, then turn right"
+917.0,,turn left
+917.0,,at the intersection turn left
+917.0,ds,Slow down to allow the pedestrians to cross the road
+920.0,,turn right
+920.0,,turn right
+920.0,,Make a right turn
+921.0,s,stop at the intersection then turn left
+921.0,ds,Stop at the stopsign and make a left turn once all cars from the right side have passed
+921.0,s,at the stop sign turn left
+921.0,,turn left
+922.0,s,"Briefly go on the right side of the road to avoid the parked vehicle in front, then go back to the original lane"
+922.0,s,go around the bus
+922.0,s,swerve around the parked vehicle
+925.0,d,"stop at the crosswalk and let the pedestrians cross, then move ahead"
+925.0,ds,Stop before the crosswalk to allow pedestrians to cross the road and proceed after they have crossed
+926.0,,turn right at the intersection
+926.0,s,Make a right turn and go down the road
+926.0,,turn right
+928.0,,turn right
+928.0,,Make a right turn at the intersection
+928.0,s,turn right at the intersection
+929.0,d,Stop before the toll gate and proceed when the toll gate opens
+929.0,s,"stop at the gate, once the arm is lifted proceed"
+930.0,s,turn right at the fork
+930.0,,turn right
+931.0,s,enter the horseshoe and stop at the gate
+931.0,s,Take a left and stop at the front of the entrance
+931.0,,go to the left and stop in front of the building
+945.0,,"turn left, turn left"
+945.0,,Make the first left turn possible
+945.0,s,Make a left turn while avoiding the construction.
+945.0,s,"turn right at the intersection avoid hitting the traffic cones, reverse back slighly and merge into the left lane"
+947.0,,turn left at the intersection
+947.0,,turn left
+949.0,s,stop at the intersection
+952.0,s,"stop at the intersection, then proceed"
+952.0,s,Merge to the left lane and stop before entering the main road.
+952.0,,Slowly enter the main road after the foll stop
+953.0,,Switch to the left lane
+955.0,s,Switch to the right lane briefly to pass the parked vehicle ahead and go back to the left lane immediately after
+958.0,s,Come to a stop when you appraoch the parked vehicle in front
+958.0,d,"When the light turns green, proceed straight"
+959.0,d,"Switch to the right lane when there are no cars coming from behind, then switch back to the left lane once you have passed all obstructions"
+959.0,,go around the vehicle obstructing the road
+960.0,,turn left
+960.0,d,Make a left turn if there are no cars coming from the right side
+961.0,s,Switch to the right lane when you see the parked vehicle ahead.
+962.0,,"At the intersection, make a left turn onto the leftmost lane"
+962.0,,turn left
+963.0,,Switch to the rightmost lane
+966.0,,go around the vehicle obstructing the road
+966.0,s,Slowly pass the parked vehicle on your lane by staying on the right side.
+967.0,s,Stop at the sotpsign
+967.0,d,Slowly pass the pedestrians that are a little bit on the row
+968.0,s,Stop before the closed toll gate
+968.0,,turn right
+968.0,d,"Once all cars from oncoming traffic have passed, make a right turn"
+969.0,s,Go around the parked vehicle in your lane by going around on the right
+969.0,,go around the vehicle obstructing the road
+969.0,d,"When the toll gate opens, continue straight"
+971.0,,Make a right turn
+971.0,,turn right
+979.0,d,Continue straight once the stoplight turns green
+980.0,,Make a left turn before approaching the construction in your lane
+983.0,d,After passing the intersection switch to the right lane
+988.0,,at the end of the road turn right
+988.0,,Make a right turn if there are no cars coming from the left side
+989.0,ds,"Come to a stop before the crosswalk to allow the pedestrian to cross the road. After the pedestrian has crossed the road, continue forward"
+990.0,,continue on this road
+991.0,d,Stop at a safe distance behind the unloading vehicle
+991.0,sd,stop right behind the gray car and wait for the people to pass
+991.0,ds,Come to a stop when you see pedestrians in front of you
+994.0,s,take the roundabout
+994.0,,Make a right turn when it appears
+994.0,s,Make a right turn
+994.0,,keep right at the intersection
+995.0,s,Change one lane to the left
+995.0,s,take the left lane and exit the highway
+996.0,d,Come to a stop before the tool gate and proceed once it opens
+997.0,,stay in the left lane while approaching the roundabout
+998.0,d,Take the first left in the roundabout when it is safe to do so
+998.0,,turn left into the roundabout and take the first exit
+998.0,d,take the first left after merging onto the road
+998.0,d,Make the left turn once cars from the right side have passed
+999.0,,Make a left turn onto the main road
+999.0,,turn left 
+999.0,s,Change one lane to the left and proceed to take a left turn
+999.0,s,change lanes to take a left turn and then take the left turn
+1000.0,s,Shift to the right lane
+1000.0,,Make a right turn
+1000.0,,continue on this road
+1002.0,,merge into the left most lane and turn left at the signal
+1002.0,s,Change one lane to the left and take a left turn at the lights
+1002.0,s,shift to the left lane and then a take a left at the stop lights
+1002.0,,Make the left turn at the intersection
+1002.0,,Switch to the far left lane
+1005.0,s,take a left turn at the lane split
+1005.0,s,Take a slight left when the lane splits
+1005.0,,Keep left at the fork
+1005.0,s,Make tthe left turn when it appears and continue through the road
+1006.0,d,Stop before the crosswalk to allow the pedestrians to cross through. Then proceed forward once it is clear
+1007.0,d,Allow the oncoming vehicle to pass before taking a left turn
+1007.0,s,take a left turn
+1007.0,,turn left at the intersection
+1007.0,,Make a left turn
+1011.0,,turn left at the intersection  and continue straight
+1016.0,d,Slow down before passing the crosswalk to allow the pedestrians to completely cross the road
+1017.0,s,stop behind the gray car
+1018.0,d,Follow the vehicle directly ahead
+1018.0,d,follow the silver car ahead and turn right
+1018.0,s,take the right turn and then shift onto the left lane
+1022.0,d,Make the left turn once all cars from the right have passed
+1023.0,,turn left here
+1023.0,d,Make the left turn once all cars from the right have passed
+1023.0,d,Make a left turn when they're no oncoming vehicles
+1023.0,s,take left and merge onto the left lane
+1044.0,d,follow the car a head into the right turn lane
+1048.0,d,follow the car ahead and turn right into the connecting road
+1048.0,,Make the right turn
+1048.0,d,Follow the vehicle directly ahead
+1048.0,s,take a right a turn and follow the gray car
+1054.0,s,Make a left turn and continue down the road
+1054.0,s,Make a left turn
+1054.0,sd,take a left turn and wait for the car to exit the driveway
+1058.0,s,take a slight right and stay on the same lane
+1058.0,,Make the right turn
+1058.0,,continue on this road
+1058.0,s,Take a slight right when the road splits
+1059.0,d,wait for the black van to move out of the current lane and then continue going straight
+1061.0,s,Make the turns around the corner
+1064.0,,turn right into the connecting road
+1064.0,d,Make the right turn only once all oncoming cars have passed
+1064.0,sd,stop right before the right turn and wait for the biker to pass and then take the right turn
+1064.0,d,Allow the oncoming vehicle to pass and then make a right
+1065.0,d,Change one lane to the right to pass the vehicle stopped in the road and then change back one lane to the left
+1065.0,sd,shift to the right lane to avoid the oncoming car and then shift back to the left lane
+1066.0,s,"Briefly go on the right lane to avoid the parked car ahead of you, then switch back to the left lane."
+1068.0,s,Make the left turn at the intersection
+1068.0,s,Take a left at the light
+1068.0,s,Take left turn at the stop light
+1069.0,s,Take a left turn at the intersection and follow the gray car
+1069.0,,turn left at the signal
+1069.0,ds,Take a left and follow the vehicle ahead
+1073.0,s,Take a left at the light
+1073.0,s,Make the left turn at the intersection
+1073.0,,turn left at the signal
+1073.0,s,Take a left turn at the intersection
+1076.0,s,Make the left turn at the intersection and enter the leftmost lane
+1076.0,d,Follow the vehicle ahead
+1076.0,,turn left at the signal
+1076.0,s,Take a left turn
+1077.0,s,Take a left turn and follow the black car
+1078.0,sd,Shifted to the right lane and overtake the white car and the van
+1078.0,s,Change one lane to the right
+1078.0,d,Switch to the middle lane and pass the vehicles on your left
+1080.0,,"After the intersection, switch to the right lane"
+1080.0,ds,Change one lane to the right and maintain a safe distance between the vehicle directly ahead
+1080.0,,merge into the right lane
+1080.0,d,Follow the black car
+1081.0,d,follow the black car
+1081.0,s,Shift to the right to get into the turning lane
+1081.0,d,Follow the vehicle in front of you
+1083.0,d,follow the black car ahead and turn right
+1083.0,d,Follow the vehicle in front of you and make the right turn
+1083.0,s,Make a right turn at the light
+1083.0,s,Take right turn at the intersection
+1084.0,,Switch to the left lane
+1084.0,,merge into the left lane
+1084.0,ds,"Move one lane to the left, be cautious of the vehicle turning into the lane "
+1084.0,d,"Briefly, if clear, go onto the middle lane to avoid hitting the car attempting to enter into your lane, then go back to the left lane"
+1084.0,s,Shift to the left lane
+1085.0,,Make a left turn
+1085.0,,turn left at the signal and continue on this road
+1085.0,,Take left turn
+1085.0,s,Make a left turn at the light
+1086.0,d,Be cautious of all the pedestrians ahead of you
+1087.0,,Make a right turn
+1087.0,s,Make a right turn
+1087.0,s,Take a right turn
+1087.0,,turn right here and continue straight
+1088.0,,Make the next right turn
+1088.0,,Make a right turn
+1088.0,s,Shortly after turning the corner take a right turn
+1088.0,s,Take a right turn
+1088.0,d,turn right at the connecting road near the man walking their dog
+1089.0,s,Make a left turn and after continuing straight for a bit make another left turn
+1089.0,,Make the next left turn
+1089.0,,turn left at the end of the road and turn left again into the first connecting road
+1089.0,s,Take a left turn and the take another left turn
+1089.0,,Make a left turn
+1091.0,,keep right 
+1094.0,d,Make the left turn only when no pedestrians are in the way
+1094.0,d,Make a left turn and follow the vehicle in front
+1094.0,sd,Take a left turn and follow the gray car
+1094.0,,turn left at the intersection
+1095.0,sd,Shift the right lan and overtake the van and stop ot the red light
+1095.0,s,Change one lane to the right
+1097.0,d,Slowly move foward to turn right when it's safe to do so
+1097.0,d,"When the stoplight turns green, prepare to make a right turn. Only proceed once all oncoming cars have passed"
+1097.0,s,Go to the median and wait to take a right turn
+1098.0,d,Slowly move foward to turn right when all oncoming traffic has passed
+1101.0,d,Complete the right turn after all cars have passed
+1101.0,ds,Make a right turn at the light when it's safe to do so
+1101.0,s,Take a right turn
+1101.0,,when there are no approaching cars turn right
+1105.0,s,Shift to the opposing lane to avoid the car and then move back to the left lane
+1105.0,s,Avoid the vehicle in front of you by switching to the right side of the road
+1105.0,d,Move over one lane to the right to avoid and pass the vehicle reversing
+1107.0,,Switch onto the right lane
+1110.0,s,Make a right turn at the light and immediately change one lane to the right to be in the right most lane
+1110.0,s,Go on the rightmost lane to make the right turn
+1110.0,d,Make the right turn at the green light
+1110.0,sd,Take the right turn and follow the black car and then shift to the right lane
+1110.0,d,follow the blue prius while turning right and merge into the right turn only lane

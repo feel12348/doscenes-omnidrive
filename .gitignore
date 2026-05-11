@@ -1,0 +1,25 @@
+# Runtime outputs
+log_train/
+log_test/
+results*/
+work_dirs/
+
+# Large data and checkpoints should be provided externally.
+ckpts/
+data/nuscenes/
+*.pth
+*.pt
+*.bin
+*.safetensors
+*.ckpt
+*.zip
+
+# Python/cache artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Editor/system files
+.DS_Store
+*.swp

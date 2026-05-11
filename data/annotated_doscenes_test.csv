@@ -1,0 +1,491 @@
+Scene Number,Scene Name,Split,Instruction Type,Instruction,Annotator,Source Row
+78,scene-0078,test,S,"after the stop sign, stay on the right to go straight",Annotator 11,3
+78,scene-0078,test,S,"stop at the stopsign, and change into the right lane",Annotator 10,3
+78,scene-0078,test,s,stop at the stop sign,Annotator 12,3
+78,scene-0078,test,s,stop at the stop sign and proceed forward after making sure there are no pedestrians,Annotator 9,3
+78,scene-0078,test,s,stopped at stop sign and then move to right lane,Annotator 8,3
+79,scene-0079,test,D,follow the vehicle in front of you,Annotator 10,4
+79,scene-0079,test,d,keep following the vehicle ahead of you,Annotator 9,4
+79,scene-0079,test,d,"stay in the lane, watchout for oncoming traffic",Annotator 12,4
+79,scene-0079,test,unknown,slight right curve,Annotator 8,4
+79,scene-0079,test,unknown,slow down as you go around the curve,Annotator 11,4
+80,scene-0080,test,d,drive forward and then stop behind car,Annotator 8,5
+80,scene-0080,test,d,stop behing the car indicating left,Annotator 7,4
+80,scene-0080,test,d,watch out for the cars turning left,Annotator 11,5
+80,scene-0080,test,s,stop for the car stopped at the intersection,Annotator 12,5
+81,scene-0081,test,D,hang right as you approach the man on the road,Annotator 10,6
+81,scene-0081,test,d,be cautious of cars moving out of the lane and watch for instruction of cross guard,Annotator 12,6
+81,scene-0081,test,d,follow cars infront and then watch for construction person,Annotator 8,6
+81,scene-0081,test,d,go forward once the red car starts moving and keep going forward as the traffic conducor indicates to,Annotator 7,5
+81,scene-0081,test,d,"keep behind the red car, go straight then follow the man in the yellow vest",Annotator 11,6
+81,scene-0081,test,d,pass by the guy guided the street,Annotator 9,7
+81,scene-0081,test,d,stay behind the pedestrian walk until the red car in front of you proceeds to move,Annotator 9,6
+82,scene-0082,test,d,stay on the left side to make space for the bicyclist,Annotator 11,7
+82,scene-0082,test,d,watchout for incoming traffic,Annotator 12,7
+83,scene-0083,test,D,Slow down and let the pedestrian cross,Annotator 10,8
+83,scene-0083,test,d,let the pedestrian cross the road before going straight,Annotator 9,9
+83,scene-0083,test,d,slow down and stop for the man to cross the road then keep moving forward slowly,Annotator 7,7
+83,scene-0083,test,d,slow down and stop to let the pedestrian pass,Annotator 11,8
+83,scene-0083,test,d,slow down for person crossing road,Annotator 8,8
+83,scene-0083,test,d,slow down for stopping car and watchout for pedestrian crossing the road,Annotator 12,8
+84,scene-0084,test,D,Turn left and follow the truck in front of you,Annotator 10,9
+84,scene-0084,test,d,take the left turn and stay behind the truck,Annotator 12,9
+84,scene-0084,test,d,turn left and follow the semi truck,Annotator 11,9
+84,scene-0084,test,unknown,make a left turn at the intersection,Annotator 9,10
+84,scene-0084,test,unknown,turn left,Annotator 7,8
+85,scene-0085,test,S,Turn left here,Annotator 10,10
+85,scene-0085,test,d,make a left turn once the car from the left has passed,Annotator 9,11
+85,scene-0085,test,d,turn left after there are no incoming cars and slow down for the stop sign,Annotator 12,10
+85,scene-0085,test,d,wait for car to go by and then turn left,Annotator 8,10
+85,scene-0085,test,d,wait for the green car to pass then turn left,Annotator 7,9
+85,scene-0085,test,unknown,turn left,Annotator 11,10
+87,scene-0087,test,s,slow down and stop at the stop sign,Annotator 7,11
+87,scene-0087,test,s,stop at stop sign and wait for cars to go by,Annotator 8,12
+87,scene-0087,test,s,stop at the stop sign,Annotator 12,12
+87,scene-0087,test,s,stop at the stopsign,Annotator 9,13
+87,scene-0087,test,"s,d",at the stop sign watch out for incoming traffic on the right,Annotator 11,12
+88,scene-0088,test,S,"Turn right, then turn left at the next stop sign",Annotator 10,13
+88,scene-0088,test,d,take a right turn after the truck goes and slow down for the stop sign,Annotator 12,13
+88,scene-0088,test,d,"wait for the truck to pass then turn right. at the next stop sign, turn left",Annotator 7,12
+88,scene-0088,test,ds,"make a right turn, stop at the stop sign, then make a left turn",Annotator 9,14
+88,scene-0088,test,s,"turn right, stop at stop sign, and turn left",Annotator 8,13
+88,scene-0088,test,"s,d","follow the yellow semi truck, turn right, then turn left at the stop sign",Annotator 11,13
+91,scene-0091,test,D,Hang left and go around the biker,Annotator 10,16
+91,scene-0091,test,d,make a right turn and slightly go left to avoid hitting the byclist then go back on the right side,Annotator 9,17
+91,scene-0091,test,d,make space for the bicyclist on your right,Annotator 11,16
+91,scene-0091,test,d,"turn right, watch for bicycle",Annotator 8,16
+91,scene-0091,test,s,stay cautious of bicycle rider.,Annotator 12,16
+91,scene-0091,test,unknown,turn right,Annotator 7,15
+111,scene-0111,test,D,turn left where the construction is,Annotator 10,17
+111,scene-0111,test,d,"follow the instructions from the person in the vest, and watch out for stopped vehicles in the road",Annotator 11,17
+111,scene-0111,test,d,go forward according to the construction person and then turn left,Annotator 8,17
+111,scene-0111,test,d,go forward following instruction and watch out for incoming traffic as you are going into the lane,Annotator 12,17
+111,scene-0111,test,d,turn left as long as the traffic conductor permits you to drive ahead,Annotator 7,16
+111,scene-0111,test,unknown,make a left turn and stay on the right side of the road,Annotator 9,18
+113,scene-0113,test,D,Don't pass the cement truck,Annotator 10,19
+114,scene-0114,test,S,Turn right at the light,Annotator 10,20
+114,scene-0114,test,d,slow down for the yellow light and watch for the car on the other lane turning left! we need to turn right,Annotator 8,20
+114,scene-0114,test,d,turn right at the light but watch out for the dark suv turning left,Annotator 11,20
+114,scene-0114,test,d,"wait for the car to turn, then turn right",Annotator 7,19
+114,scene-0114,test,unknown,make a right turn at the intersection,Annotator 9,21
+114,scene-0114,test,unknown,slow down for the intersection and go right when there is no oncoming traffic,Annotator 12,20
+115,scene-0115,test,S,Get into the left lane at this light,Annotator 10,21
+115,scene-0115,test,d,go forward slowly as the bus merges in,Annotator 12,21
+115,scene-0115,test,d,slow down for the tour bus turning left,Annotator 11,21
+115,scene-0115,test,d,slow down to make the bus make its turn then continue going straight,Annotator 9,22
+115,scene-0115,test,d,wait for the bus to turn then keep driving forward,Annotator 7,20
+115,scene-0115,test,d,watch for the bus pulling out of the right lane and turning left,Annotator 8,21
+116,scene-0116,test,d,"slow down for person jaywalking across road, and we need to be in the left lane",Annotator 8,22
+116,scene-0116,test,d,slow down for the crossing pedestrian and stop for the red ligtht,Annotator 12,22
+116,scene-0116,test,d,slow down for the pedestrian crossing the road,Annotator 11,22
+116,scene-0116,test,d,"slow down so you don't hit the person crossing the road, then go into the left turn lane",Annotator 7,21
+116,scene-0116,test,unknown,go to the left lane when it appears,Annotator 9,23
+117,scene-0117,test,S,Turn right at this intersection,Annotator 10,23
+117,scene-0117,test,s,turn right but stay on the left watching for the barricade,Annotator 11,23
+118,scene-0118,test,d,turn right watch for car coming from round about,Annotator 8,24
+118,scene-0118,test,s,take the second exit in the roundabout,Annotator 11,24
+118,scene-0118,test,unknown,make a right turn,Annotator 9,25
+118,scene-0118,test,unknown,turn right,Annotator 7,23
+119,scene-0119,test,S,Enter the roundabout and take the second exit,Annotator 10,25
+119,scene-0119,test,d,yield for cars already in round about and go to the second exit in the round about,Annotator 8,25
+119,scene-0119,test,d,yield for oncoming traffic,Annotator 12,25
+119,scene-0119,test,s,take the second exit in the roundabout,Annotator 7,24
+119,scene-0119,test,unknown,go around the round-a-bout but continue on the straight path,Annotator 9,26
+142,scene-0142,test,s,"go on the left lane to avoid hitting the parked cars, once passing them go back to the right lane",Annotator 9,28
+142,scene-0142,test,s,slightly move into the right lane to avoid hitting the parked bikes,Annotator 7,26
+143,scene-0143,test,D,Pass these parked cars on the right,Annotator 10,28
+143,scene-0143,test,d,go around stopped cars in the right lane and then return,Annotator 8,28
+143,scene-0143,test,d,"go past the cars stopped in the road by veering into the other lane, then return back to the left",Annotator 11,28
+143,scene-0143,test,s,Go into the left lane to avoid stopped cars in front of you and return to your lane after passing,Annotator 12,28
+143,scene-0143,test,s,"move into the left lane to avoid the cars, then back into the right to avoid the parked cars",Annotator 7,27
+144,scene-0144,test,S,Go straight at this intersection,Annotator 10,29
+144,scene-0144,test,d,Go straight after there is no more oncoming traffic,Annotator 12,29
+144,scene-0144,test,d,after the motorcyclist passes go straight,Annotator 11,29
+144,scene-0144,test,d,go through the intersection once the motorcycle on the right has passed,Annotator 9,30
+144,scene-0144,test,d,wait for moped and then go straight,Annotator 8,29
+144,scene-0144,test,d,wait for the biker to pass the move forward,Annotator 7,28
+145,scene-0145,test,D,Pass the parked car on the right,Annotator 10,30
+145,scene-0145,test,d,go around stopped car in the right lane,Annotator 8,30
+145,scene-0145,test,d,switch to the right lane then back to the left to pass the black car,Annotator 11,30
+145,scene-0145,test,s,Go into right lane to avoid parked car and return to stop at traffic light,Annotator 12,30
+145,scene-0145,test,s,"move into the right lane to avoid the parked car, then go back into the left lane",Annotator 7,29
+145,scene-0145,test,unknown,switch into the right lane before seeing the parked vehicle,Annotator 9,31
+146,scene-0146,test,s,Go straight and stop at the traffic light,Annotator 12,31
+146,scene-0146,test,s,drive straight when the light turns green,Annotator 7,30
+146,scene-0146,test,s,go straight when light turns green,Annotator 8,31
+147,scene-0147,test,s,slow down over the crosswalk speed bump,Annotator 11,32
+148,scene-0148,test,S,Take the next right,Annotator 10,33
+148,scene-0148,test,d,turn left and watch for pedestrian,Annotator 8,33
+148,scene-0148,test,s,Take a slight right turn avoiding the crossing pedestrian,Annotator 12,33
+148,scene-0148,test,s,turn right where you see the pedestrian waiting to cross,Annotator 11,33
+148,scene-0148,test,unknown,"after passing the bus stop on the left, make a right turn at the intersection",Annotator 9,34
+148,scene-0148,test,unknown,take a right,Annotator 7,32
+265,scene-0265,test,S,Slow down and stay in the left lane,Annotator 10,34
+265,scene-0265,test,d,Go in the right lane to avoid the oncoming car and go back,Annotator 12,34
+265,scene-0265,test,d,"go to the right side of the road to avoid the oncoming vehicle, then go back to the left vehicle",Annotator 9,35
+265,scene-0265,test,d,move into the right lane to avoid the car then back into the left once it has passed,Annotator 7,33
+265,scene-0265,test,d,stay on the right to avoid the car going straight then slow down,Annotator 11,34
+265,scene-0265,test,unknown,drive forward and go to left lane,Annotator 8,34
+266,scene-0266,test,s,Follow the road,Annotator 12,35
+266,scene-0266,test,s,slow down because the road gets windy,Annotator 11,35
+279,scene-0279,test,S,Stay in this lane to turn right,Annotator 10,36
+279,scene-0279,test,d,Slow down for the pedestrian on the road,Annotator 12,36
+279,scene-0279,test,d,slow down for person walking on the left,Annotator 8,36
+279,scene-0279,test,d,slow down for the walking pedestrian on your left,Annotator 11,36
+280,scene-0280,test,S,Turn right at this light,Annotator 10,37
+280,scene-0280,test,d,follow the vehicle in front of you,Annotator 9,38
+280,scene-0280,test,d,follow the white car in front of you,Annotator 11,37
+280,scene-0280,test,d,"stop and wait behind car in front, wait for them to go",Annotator 8,37
+280,scene-0280,test,s,Stop behind the stopped car,Annotator 12,37
+280,scene-0280,test,sd,"after the light turns green and the car in front moves, take a right",Annotator 7,36
+281,scene-0281,test,D,Pass this parked car on the right,Annotator 10,38
+281,scene-0281,test,d,go around car on the left,Annotator 8,38
+281,scene-0281,test,s,Go into the right lane to avoid the parked car and then go back into the left lane after the car is passed,Annotator 12,38
+281,scene-0281,test,s,"drive into the right lane to avoid the parked yellow car, then move back into the left and keep driving straight",Annotator 7,37
+281,scene-0281,test,s,veer into the right lane to avoid the stopped yellow car,Annotator 11,38
+281,scene-0281,test,unknown,go around the yellow car and come back to the same lane,Annotator 9,39
+282,scene-0282,test,d,Slow down for the car in front of you,Annotator 12,39
+282,scene-0282,test,s,slow down for speed hump,Annotator 8,39
+282,scene-0282,test,s,slow down for the black and yellow speed bump,Annotator 11,39
+282,scene-0282,test,unknown,keep going straight while keeping a distance of the car in front of you,Annotator 9,40
+307,scene-0307,test,S,Turn left at the stopsign,Annotator 10,40
+307,scene-0307,test,d,go around car on the left and turn left at intersection,Annotator 8,40
+307,scene-0307,test,d,veer into the right lane to avoid the truck and then turn left,Annotator 11,40
+307,scene-0307,test,s,Go into the right lane to avoid the parked car and go back to stop at the stop sign,Annotator 12,40
+307,scene-0307,test,s,"move slightly right to avoid the parked vehicle, then take a left at the stop sign",Annotator 7,39
+307,scene-0307,test,unknown,go around the vehicle in front of you,Annotator 9,41
+308,scene-0308,test,S,Take the next right and pull off to the left,Annotator 10,41
+308,scene-0308,test,d,turn right where you see the pedestrian in the orange shirt walking,Annotator 11,41
+308,scene-0308,test,"d,s",turn right avoiding the walking pedestriand and park behind the stopped car,Annotator 12,41
+308,scene-0308,test,s,make a right turn after passing the bus stop on the left,Annotator 9,42
+308,scene-0308,test,unknown,take a right,Annotator 7,40
+308,scene-0308,test,unknown,turn right and watch for person walking,Annotator 8,41
+310,scene-0310,test,D,Wait for this lady to pass then keep going,Annotator 10,43
+310,scene-0310,test,d,Stop for the walking pedestrian,Annotator 12,43
+310,scene-0310,test,d,slowly drive forward as the pedestrian passes the car.,Annotator 9,44
+310,scene-0310,test,d,stay on the right to avoid the pedestrian walking on the left,Annotator 11,43
+310,scene-0310,test,d,stop for person walking on the left and then go after clear,Annotator 8,43
+310,scene-0310,test,d,wait for the woman to move and then drive forward,Annotator 7,42
+311,scene-0311,test,S,Turn left at this intersection,Annotator 10,44
+311,scene-0311,test,d,Take a slight left turn,Annotator 12,44
+311,scene-0311,test,s,turn left at one-north Link then stay in the left lane,Annotator 11,44
+311,scene-0311,test,unknown,at the intersection make a left,Annotator 9,45
+311,scene-0311,test,unknown,stop at intersection and turn left into the left lane,Annotator 8,44
+311,scene-0311,test,unknown,take a left at the intersection and be in the left lane,Annotator 7,43
+312,scene-0312,test,s,Stop at the traffic light,Annotator 12,45
+312,scene-0312,test,s,stop at red light,Annotator 8,45
+312,scene-0312,test,s,stop at the red light,Annotator 7,44
+313,scene-0313,test,D,Stop behind this truck ahead,Annotator 10,46
+313,scene-0313,test,d,slow down and stop behind vehicle on the left lane,Annotator 8,46
+313,scene-0313,test,d,slow down and stop in front of the green truck,Annotator 11,46
+313,scene-0313,test,s,Stop behind the parked vehicle,Annotator 12,46
+313,scene-0313,test,s,slow down and stop behind the green truck,Annotator 7,45
+313,scene-0313,test,s,"when you see the white truck ahead of you, switch to the right lane, then go back to the original lane",Annotator 9,47
+314,scene-0314,test,D,Take this u-turn a moment after the car in front of us does,Annotator 10,47
+314,scene-0314,test,d,follow the same path as the white vehicle in front of oyu,Annotator 9,48
+314,scene-0314,test,d,turn left and sto next to the parked car,Annotator 12,47
+314,scene-0314,test,d,turn left then slow down and stay on the right as you pass the stopped truck,Annotator 11,47
+314,scene-0314,test,d,turn slight left and watch for bus on the right side,Annotator 8,47
+314,scene-0314,test,unknown,slowly drive through the u turn,Annotator 7,46
+333,scene-0333,test,d,construction person waved us through so we can go forward,Annotator 8,48
+333,scene-0333,test,d,slow down for incoming traffic and go straight as instructed by cross guard,Annotator 12,48
+333,scene-0333,test,d,slow down for the two cars coming into the lane and follow the vested person's instructions,Annotator 11,48
+335,scene-0335,test,S,Turn right at the light into the middle lane,Annotator 10,50
+335,scene-0335,test,d,take a slight right turn following the car in front of you,Annotator 12,50
+335,scene-0335,test,s,make a right turn at the top light and go into the middle lane,Annotator 9,51
+335,scene-0335,test,s,turn right at the stop light then stay in the middle lane,Annotator 11,50
+335,scene-0335,test,unknown,take a right at the signal then be in the middle lane,Annotator 7,49
+335,scene-0335,test,unknown,turn right,Annotator 8,50
+336,scene-0336,test,d,watch for car merging into our lane,Annotator 8,51
+336,scene-0336,test,s,after the light slow down and keep distance away from the barricades,Annotator 11,51
+337,scene-0337,test,"d, s",Slow down as you are approaching a red traffic light,Annotator 12,52
+337,scene-0337,test,s,slow down for yellow light,Annotator 8,52
+338,scene-0338,test,D,Hang right as the pedestrian exits his car,Annotator 10,53
+338,scene-0338,test,d,Go straight and watchout for the taxi merging into your lane,Annotator 12,53
+338,scene-0338,test,d,watch out for the pedestrian on the right then watch out for the white taxi merging into the lane,Annotator 11,53
+339,scene-0339,test,D,Hang right as the pedestrian exits her car,Annotator 10,54
+340,scene-0340,test,d,stop at light and watch for people walking,Annotator 8,55
+340,scene-0340,test,s,Stop at the traffic light,Annotator 12,55
+340,scene-0340,test,s,stop at the red light,Annotator 7,54
+340,scene-0340,test,"s,d",slow down at the stop light for the pedestrian crossing the intersection,Annotator 11,55
+341,scene-0341,test,d,watch for person crossing and then go when light green and road is clear,Annotator 8,56
+341,scene-0341,test,s,Go forward once the light turns green,Annotator 12,56
+341,scene-0341,test,s,drive straight when the light turns green,Annotator 7,55
+341,scene-0341,test,s,go straight only once the stoplight turns green,Annotator 9,57
+342,scene-0342,test,S,Go into the left lane at the light in front of us,Annotator 10,57
+342,scene-0342,test,s,Slow down as you are approaching the red traffic light,Annotator 12,57
+342,scene-0342,test,s,at the stop light get into the leftmost lane,Annotator 11,57
+342,scene-0342,test,s,go on the left lane after passing by the two parked cars on the right lane,Annotator 9,58
+342,scene-0342,test,s,slow down at red light,Annotator 8,57
+342,scene-0342,test,unknown,drive into the left turn lane at the signal,Annotator 7,56
+343,scene-0343,test,"d, s",Go forward once the light turns green and there are no more cars in front of you,Annotator 12,58
+343,scene-0343,test,ds,only go forward once all the cars in the intersection have passed and the light turns green,Annotator 9,59
+343,scene-0343,test,unknown,go when light turn green,Annotator 8,58
+481,scene-0481,test,S,Turn left,Annotator 10,59
+481,scene-0481,test,s,Take a slight left turn and slow down as you approach the parked semi-truck,Annotator 12,59
+481,scene-0481,test,unknown,make a left turn and go straight,Annotator 9,60
+481,scene-0481,test,unknown,take a left,Annotator 7,58
+481,scene-0481,test,unknown,turn left,Annotator 11,59
+482,scene-0482,test,D,Pass the parked truck on the left and follow the car in front of us,Annotator 10,60
+482,scene-0482,test,d,Go into the left lane to avoid parked semi and follow the car in front of you,Annotator 12,60
+482,scene-0482,test,d,go around the white semitruck and follow the car in front of you,Annotator 11,60
+482,scene-0482,test,d,go around truck on left and then follow car forward,Annotator 8,60
+482,scene-0482,test,s,go around the white truck in front of you,Annotator 9,61
+482,scene-0482,test,unknown,go around the truck by driving slightly into the left lane,Annotator 7,59
+483,scene-0483,test,S,Merge into the right lane,Annotator 10,61
+483,scene-0483,test,s,Merge into the right lane and stop at the red light,Annotator 12,61
+483,scene-0483,test,s,get into the right turn lane at the stop light,Annotator 11,61
+483,scene-0483,test,unknown,drive into the right turn lane,Annotator 7,60
+483,scene-0483,test,unknown,go to the right lane,Annotator 8,61
+484,scene-0484,test,S,Turn right and merge into the middle lane,Annotator 10,62
+484,scene-0484,test,s,Stop at the traffic light,Annotator 12,62
+484,scene-0484,test,s,turn right and stay in the middle lane,Annotator 11,62
+484,scene-0484,test,s,"turn right into middle lane, slow down at red light",Annotator 8,62
+484,scene-0484,test,unknown,make a right turn onto the middle lane,Annotator 9,63
+484,scene-0484,test,unknown,take a right at the signal and then stay in the middle lane,Annotator 7,61
+485,scene-0485,test,S,"Try to merge into the middle lane, otherwise just stay in this lane",Annotator 10,63
+485,scene-0485,test,d,slow down let car on left come into our lane,Annotator 8,63
+485,scene-0485,test,d,stay on the left and slow down for the pedestrian on the right,Annotator 11,63
+485,scene-0485,test,"d, s",Stop for the pedestrian getting in their car,Annotator 12,63
+487,scene-0487,test,S,Hang into the middle lane to go around this curb and merge back into this lane,Annotator 10,65
+487,scene-0487,test,d,stop behind cars infront,Annotator 8,65
+487,scene-0487,test,s,slightly go a bit to the left to avoid hitting the construction then go back in the same lane,Annotator 9,66
+487,scene-0487,test,s,"veer into the left lane to avoid the cones, then get back into the right lane",Annotator 11,65
+488,scene-0488,test,D,Pass the parked car/pedestrians on the right when there is space.,Annotator 10,66
+488,scene-0488,test,d,wait for cars to clear and then pull out on the left side,Annotator 8,66
+488,scene-0488,test,"d, s",Stop for the pedestrians getting into their car and merge into the left lane after there is no oncoming traffic,Annotator 12,66
+488,scene-0488,test,ds,"when it is clear to do so, go around the stopped vehicle in front of you, then go back into the same lane",Annotator 9,67
+488,scene-0488,test,s,go around the parked car by slightly driving into the left lane then keep going straight,Annotator 7,65
+488,scene-0488,test,"s,d",get into the left lane to pass the parked car and construction,Annotator 11,66
+489,scene-0489,test,d,stop behind cars infront,Annotator 8,67
+489,scene-0489,test,s,Slow down and stop behind the stopped cars in front of you,Annotator 12,67
+489,scene-0489,test,s,stop behind the cars at the traffic light,Annotator 7,66
+490,scene-0490,test,D,"Slowly pass the parked bus, on the left and slowly approach the intersection, allowing ample space for passengers.",Annotator 10,68
+490,scene-0490,test,d,Yield for the walking pedestrians,Annotator 12,68
+490,scene-0490,test,d,slow down as the black sedan slightly passes into your lane and keep distance from pedestrians crossing,Annotator 11,68
+490,scene-0490,test,s,slow down to stop at the traffic light,Annotator 7,67
+490,scene-0490,test,s,stop at light and let people cross,Annotator 8,68
+491,scene-0491,test,s,stopped at light and people are crossing,Annotator 8,69
+492,scene-0492,test,S,Turn right at the light,Annotator 10,70
+492,scene-0492,test,s,Turn right after the light turns green,Annotator 12,70
+492,scene-0492,test,s,start moving once the traffic light turns green,Annotator 7,69
+492,scene-0492,test,s,"stopped at light and bikes and people crossing, go when clear and light turns green",Annotator 8,70
+492,scene-0492,test,unknown,turn right,Annotator 11,70
+493,scene-0493,test,d,slow down for the pedestrians crossing,Annotator 11,71
+493,scene-0493,test,s,Stop at the red light and go forward once the light turns green,Annotator 12,71
+493,scene-0493,test,s,start moving once the traffic light turns green,Annotator 7,70
+493,scene-0493,test,s,stop at red light and let people cross,Annotator 8,71
+494,scene-0494,test,d,Stop behind the stopped cars in front of you,Annotator 12,72
+494,scene-0494,test,d,slow down for the pedstrian in the hat jaywalking,Annotator 11,72
+494,scene-0494,test,d,watch for person crossing and stop behind cars,Annotator 8,72
+494,scene-0494,test,s,slow down to stop behind the cars,Annotator 7,71
+495,scene-0495,test,D,Slown down as the pedestrians cross the road,Annotator 10,73
+495,scene-0495,test,d,Slow down for the pedestrians crossing the road and go after they get to the sidewalk,Annotator 12,73
+495,scene-0495,test,d,slow down for pedestrians crossing the street,Annotator 11,73
+495,scene-0495,test,d,slow down for people crossing,Annotator 8,73
+495,scene-0495,test,d,"slow down for the pedestrians crossing the road, then keep going straight",Annotator 9,74
+495,scene-0495,test,d,slow down for the people crossing the road,Annotator 7,72
+496,scene-0496,test,s,stop at red light,Annotator 8,74
+498,scene-0498,test,s,Go forward stay in your lane and stop behind cars stopped the traffic light,Annotator 12,76
+498,scene-0498,test,s,drive straight,Annotator 7,75
+547,scene-0547,test,S,"After the light, merge into the right lane",Annotator 10,77
+547,scene-0547,test,s,Go forward and take a slight right turn,Annotator 12,77
+547,scene-0547,test,s,after the light change to the right lane,Annotator 11,77
+547,scene-0547,test,unknown,after passing the intersection go into the right lane,Annotator 9,78
+547,scene-0547,test,unknown,drive straight at the signal then change into the right lane,Annotator 7,76
+549,scene-0549,test,d,slow down for the parked car and pedestrians on your right,Annotator 11,79
+549,scene-0549,test,s,Go forward and slow down as you approach the stopped car,Annotator 12,79
+550,scene-0550,test,S,Exit the roundabout at the second exit,Annotator 10,80
+550,scene-0550,test,s,pass this first exit then take the second exit on the roundabout,Annotator 11,80
+551,scene-0551,test,S,Turn right at the stopsign,Annotator 10,81
+551,scene-0551,test,s,Stop at the stop sign,Annotator 12,81
+551,scene-0551,test,s,stop at the stop sign then take a right,Annotator 7,80
+551,scene-0551,test,s,turn right at the stop sign,Annotator 11,81
+551,scene-0551,test,unknown,make a right turn at the intersection when it is clear to do so,Annotator 9,82
+601,scene-0601,test,S,Wait here,Annotator 10,82
+601,scene-0601,test,d,Stop for the crossing pedestrians,Annotator 12,82
+602,scene-0602,test,s,Stop behind the stopped cars,Annotator 12,83
+602,scene-0602,test,unknown,drive into the left lane at the signal,Annotator 7,82
+602,scene-0602,test,unknown,go into the left lane,Annotator 9,84
+604,scene-0604,test,s,Go forward staying in your lane,Annotator 12,85
+606,scene-0606,test,s,Stop behind the car that is stopped at the red light,Annotator 12,86
+606,scene-0606,test,unknown,stop at the signal,Annotator 7,85
+607,scene-0607,test,S,Turn left at the light and stay in the left lane for the next light,Annotator 10,87
+607,scene-0607,test,s,Go forward and stop behind the car stopped at the red light,Annotator 12,87
+607,scene-0607,test,unknown,make a left turn,Annotator 9,88
+607,scene-0607,test,unknown,take a left,Annotator 7,86
+607,scene-0607,test,unknown,turn left,Annotator 11,87
+608,scene-0608,test,s,Stay stopped at the red light and go forward once the light turns green,Annotator 12,88
+608,scene-0608,test,s,drive straight once the light turns green,Annotator 7,87
+608,scene-0608,test,s,go straight when the stoplight turns green,Annotator 9,89
+609,scene-0609,test,S,Merge into the right lane,Annotator 10,89
+609,scene-0609,test,s,change into the right lane,Annotator 11,89
+609,scene-0609,test,unknown,change into the right lane,Annotator 7,88
+609,scene-0609,test,unknown,switch into the right lane,Annotator 9,90
+610,scene-0610,test,s,Slow down for the red light and go forward once the light turns green,Annotator 12,90
+611,scene-0611,test,S,Turn right at the light,Annotator 10,91
+611,scene-0611,test,d,Take a right turn at the green light,Annotator 12,91
+611,scene-0611,test,s,turn right at the stop light,Annotator 11,91
+611,scene-0611,test,unknown,make a right turn at the intersection,Annotator 9,92
+611,scene-0611,test,unknown,"take a right at the signal, then be in the left lane",Annotator 7,90
+612,scene-0612,test,s,Take a left turn at the traffic light,Annotator 12,92
+612,scene-0612,test,s,turn left at the stop light,Annotator 11,92
+612,scene-0612,test,unknown,make a left turn at the intersection,Annotator 9,93
+612,scene-0612,test,unknown,take a left at the signal,Annotator 7,91
+613,scene-0613,test,s,Slow down when passing the work zone,Annotator 12,93
+614,scene-0614,test,S,Take the next left,Annotator 10,94
+614,scene-0614,test,d,Take a right turn and slow down as you are approaching the red light,Annotator 12,94
+614,scene-0614,test,unknown,make a left turn into the place where the black car is comign from and go straight,Annotator 9,95
+614,scene-0614,test,unknown,take a left,Annotator 7,93
+614,scene-0614,test,unknown,turn left,Annotator 11,94
+615,scene-0615,test,unknown,stop at the red light behind the crosswalk,Annotator 7,94
+616,scene-0616,test,s,Go forward when the light turns green,Annotator 12,96
+616,scene-0616,test,s,drive straight at the green light and let the white car pass,Annotator 7,95
+617,scene-0617,test,s,Stop at the stop sign,Annotator 12,97
+617,scene-0617,test,unknown,stop at the stop sign behind the cross walk,Annotator 7,96
+618,scene-0618,test,S,Turn left at this intersection,Annotator 10,98
+618,scene-0618,test,d,Take a left turn after there is no oncoming traffic in the right lane,Annotator 12,98
+618,scene-0618,test,d,after the pedestrians have crossed and after the black vehicle from the left has passed the intersection make a left turn,Annotator 9,99
+618,scene-0618,test,s,at the stop sign turn left,Annotator 11,98
+618,scene-0618,test,unknown,take a left,Annotator 7,97
+619,scene-0619,test,S,Stay in the left lane here,Annotator 10,99
+619,scene-0619,test,s,Slow down and stop behind the stopped car at the traffic light,Annotator 12,99
+619,scene-0619,test,s,get in the left turn lane at the stop light,Annotator 11,99
+619,scene-0619,test,unknown,drive into the left turn lane at the red light,Annotator 7,98
+621,scene-0621,test,d,Slowly go forward being cautious of the car in front of you,Annotator 12,101
+621,scene-0621,test,d,wait for the gray sedan to turn left then go straight,Annotator 11,101
+621,scene-0621,test,s,drive straight when the light turns green,Annotator 7,100
+622,scene-0622,test,S,Turn left at the next light,Annotator 10,102
+622,scene-0622,test,s,Take a left turn at the green light,Annotator 12,102
+622,scene-0622,test,s,turn left at the stop light,Annotator 11,102
+622,scene-0622,test,unknown,make a left turn at the intersection,Annotator 9,103
+622,scene-0622,test,unknown,take a left at the signal,Annotator 7,101
+623,scene-0623,test,s,Slow down as you are approaching the red light,Annotator 12,103
+624,scene-0624,test,d,Stop behind the stopped car and go forward once the light turns green,Annotator 12,104
+624,scene-0624,test,s,slow down and stop behind the cars at the red light,Annotator 7,103
+827,scene-0827,test,D,Wait for the pedestrian to cross,Annotator 10,105
+827,scene-0827,test,d,Go forward and yield for crossing pedestrians,Annotator 12,105
+827,scene-0827,test,d,slow down and stop for the pedestrian to cross the road,Annotator 7,104
+827,scene-0827,test,d,stop to let the pedestrian cross,Annotator 9,106
+827,scene-0827,test,"s,d",slow down for the speed bump and the pedestrian crossing,Annotator 11,105
+828,scene-0828,test,d,once the pedestrian has crossed go straight,Annotator 9,107
+828,scene-0828,test,s,stay on the left and slow down for the speed bump,Annotator 11,106
+830,scene-0830,test,unknown,be careful for a sharp curve going left,Annotator 11,108
+831,scene-0831,test,S,Keep left here,Annotator 10,109
+833,scene-0833,test,S,Turn right at this intersection,Annotator 10,110
+833,scene-0833,test,s,Take a right turn,Annotator 12,110
+833,scene-0833,test,s,at the stop sign turn right,Annotator 11,110
+833,scene-0833,test,unknown,make a right turn at the intersection,Annotator 9,111
+833,scene-0833,test,unknown,take a right,Annotator 7,109
+834,scene-0834,test,S,Take a harsh right,Annotator 10,111
+834,scene-0834,test,s,Take a right turn,Annotator 12,111
+834,scene-0834,test,s,turn right at the blue banner,Annotator 11,111
+834,scene-0834,test,unknown,make a right turn,Annotator 9,112
+834,scene-0834,test,unknown,take a right,Annotator 7,110
+835,scene-0835,test,D,Wait for the pedestrians to cross,Annotator 10,112
+835,scene-0835,test,d,Go forward and yield for the oncoming pedestrians,Annotator 12,112
+835,scene-0835,test,d,"slow down and stop behind the crosswalk so the pedestrians can cross the road. once they have crossed, keep driving straight",Annotator 7,111
+835,scene-0835,test,d,slow down for pedestrians crossing,Annotator 11,112
+835,scene-0835,test,d,slow down to let the pedestrians across through,Annotator 9,113
+836,scene-0836,test,s,Slow down for the speed bump,Annotator 12,113
+836,scene-0836,test,s,slow down for speed bump,Annotator 11,113
+838,scene-0838,test,d,slow down and stay behind motorcyclist,Annotator 11,115
+838,scene-0838,test,s,Slow down and stop behind the motorcycle,Annotator 12,115
+838,scene-0838,test,s,stop behind the motorcycle at the red light,Annotator 7,114
+839,scene-0839,test,S,Turn right at this signal into the right lane,Annotator 10,116
+839,scene-0839,test,d,follow the same path as the motorcycle,Annotator 9,117
+839,scene-0839,test,s,Take a right turn once the light turns green,Annotator 12,116
+839,scene-0839,test,s,at the stop light turn right and stay in the right lane,Annotator 11,116
+839,scene-0839,test,s,take a right once the light turns green and be in the rightmost lane,Annotator 7,115
+840,scene-0840,test,s,Go forward and slow down as you approach the bus stop full of pedestrians,Annotator 12,117
+840,scene-0840,test,s,change into the left lane after the u turn sign,Annotator 11,117
+840,scene-0840,test,unknown,change into the left lane,Annotator 7,116
+841,scene-0841,test,s,Go forward stay in your lane and slow down as you pass the pedestrian on the left,Annotator 12,118
+842,scene-0842,test,S,Enter the intersection in the left lane,Annotator 10,119
+842,scene-0842,test,d,Stop at the stop sign and take a left turn once there is no more oncoming traffic,Annotator 12,119
+842,scene-0842,test,ds,stop at the stopsign. make a left turn once all cars from the right have passed,Annotator 9,120
+842,scene-0842,test,s,at the stop sign turn left,Annotator 11,119
+842,scene-0842,test,unknown,stop at the stop sign and then drive into the roundabou once the cars have passed,Annotator 7,118
+844,scene-0844,test,S,Approach the toll,Annotator 10,120
+844,scene-0844,test,s,Go forward and stop at the traffic pole,Annotator 12,120
+844,scene-0844,test,s,slow down and stop behind the motorized gate arm,Annotator 7,119
+845,scene-0845,test,S,Continue after the toll gate has raised,Annotator 10,121
+845,scene-0845,test,s,Go forward once the poll lifts,Annotator 12,121
+845,scene-0845,test,s,"once the gate arm opens, drive forward",Annotator 7,120
+932,scene-0932,test,D,"Wait a moment, then pass the pedestrian on the right",Annotator 10,123
+932,scene-0932,test,d,Go forward and slow down as you approach the pedestrian,Annotator 12,123
+932,scene-0932,test,d,stay on the right side for the pedestrian on your left,Annotator 11,123
+932,scene-0932,test,unknown,start driving after a few seconds,Annotator 7,122
+933,scene-0933,test,S,"Approach the intersection and turn right, then immediately after enter the left lane",Annotator 10,124
+933,scene-0933,test,d,Go forward and stay in your lane,Annotator 12,124
+933,scene-0933,test,s,stay in the left lane when entering the roundabout but then keep to the right,Annotator 11,124
+933,scene-0933,test,unknown,drive into the leftmost lane of the roundabout then take the second exit,Annotator 7,123
+933,scene-0933,test,unknown,go into the left lane and follow the round-a-bout,Annotator 9,125
+935,scene-0935,test,s,slow down as you go over the speed bump,Annotator 12,125
+936,scene-0936,test,S,Go into the left-most lane to turn left at the light,Annotator 10,126
+936,scene-0936,test,s,Go forward and merge into the left lane,Annotator 12,126
+936,scene-0936,test,"s,d",get in the leftmost lane following the yellow bus,Annotator 11,126
+936,scene-0936,test,unknown,change into the left turn lane at the signal,Annotator 7,125
+938,scene-0938,test,D,Follow this coca-cola truck,Annotator 10,128
+938,scene-0938,test,d,Follow the car in front of you,Annotator 12,128
+938,scene-0938,test,d,follow the coca-cola vehicle in front of you,Annotator 9,129
+938,scene-0938,test,d,follow the pink coca cola truck,Annotator 11,128
+938,scene-0938,test,unknown,take a left behind the truck,Annotator 7,127
+939,scene-0939,test,D,Continue to follow this truck and turn left,Annotator 10,129
+939,scene-0939,test,d,Follow the car in front of you,Annotator 12,129
+939,scene-0939,test,d,follow the coca-cola vehicle in front of you,Annotator 9,130
+939,scene-0939,test,d,follow the pink coca cola truck and turn left,Annotator 11,129
+939,scene-0939,test,unknown,take a left behind the truck,Annotator 7,128
+940,scene-0940,test,d,Stay behind the car in front of you and watchout for the merging motorcycle,Annotator 12,130
+940,scene-0940,test,d,follow the coca-cola vehicle in front of you,Annotator 9,131
+941,scene-0941,test,S,Turn right at the interesection,Annotator 10,131
+941,scene-0941,test,d,follow the coca-cola vehicle in front of you,Annotator 9,132
+941,scene-0941,test,d,stay on the right following the coca cola truck,Annotator 11,131
+941,scene-0941,test,unknown,take a right,Annotator 7,130
+942,scene-0942,test,d,Slow down and stop behind the truck after it has stopped,Annotator 12,132
+942,scene-0942,test,d,follow the coca-cola vehicle in front of you,Annotator 9,133
+942,scene-0942,test,unknown,"wait for the truck to start moving, then keep driving forward",Annotator 7,131
+943,scene-0943,test,d,follow the coca-cola vehicle in front of you,Annotator 9,134
+1029,scene-1029,test,s,Stop behind the cars that are stopped at the light,Annotator 12,137
+1029,scene-1029,test,s,slow down and stop behind the cars at the traffic light,Annotator 7,136
+1030,scene-1030,test,s,drive straight at the traffic lights,Annotator 7,137
+1032,scene-1032,test,d,Go forward once the light turns green staying behind the car in front of you,Annotator 12,140
+1032,scene-1032,test,d,start driving straight once the lights turn green and the cars in front start moving,Annotator 7,139
+1033,scene-1033,test,S,Turn left at the next intersection,Annotator 10,141
+1033,scene-1033,test,d,Take a left turn once there is no more oncoming traffic,Annotator 12,141
+1033,scene-1033,test,s,slow down for the speed bump then turn left at the stop light,Annotator 11,141
+1033,scene-1033,test,unknown,make a left turn,Annotator 9,142
+1033,scene-1033,test,unknown,take a left at the intersection,Annotator 7,140
+1034,scene-1034,test,S,Keep right at the intersection,Annotator 10,142
+1035,scene-1035,test,s,stay on the left side,Annotator 11,143
+1035,scene-1035,test,unknown,Keep left at the intersection,Annotator 10,143
+1035,scene-1035,test,unknown,make a left turn when it appears,Annotator 9,144
+1035,scene-1035,test,unknown,take a left at the fork,Annotator 7,142
+1036,scene-1036,test,S,Turn left at the intersection,Annotator 10,144
+1036,scene-1036,test,s,Stop at the stop sign and take a left turn,Annotator 12,144
+1036,scene-1036,test,s,at the stop light turn left,Annotator 11,144
+1036,scene-1036,test,unknown,make a left turn when you can,Annotator 9,145
+1036,scene-1036,test,unknown,take a left at the intersection,Annotator 7,143
+1039,scene-1039,test,D,Turn right at the intersection with the parked truck,Annotator 10,147
+1039,scene-1039,test,d,Take a right turn being cautious for the crossing pedestrians,Annotator 12,147
+1039,scene-1039,test,d,turn right where the white truck is stopped,Annotator 11,147
+1039,scene-1039,test,unknown,make a right turn and go straight into the left lane,Annotator 9,148
+1039,scene-1039,test,unknown,take a right,Annotator 7,146
+1040,scene-1040,test,D,Wait for the pedestrians to finish crossing,Annotator 10,148
+1040,scene-1040,test,d,Yield for the crossing pedestrians,Annotator 12,148
+1040,scene-1040,test,d,slow down and stop at the crosswalk for the pedestrians to cross the road,Annotator 7,147
+1040,scene-1040,test,d,slow down for the pedestrians crossing,Annotator 11,148
+1040,scene-1040,test,ds,stop before the peestrian walk to let the people walk through,Annotator 9,149
+1041,scene-1041,test,D,Careful of the woman crossing the road,Annotator 10,149
+1041,scene-1041,test,d,Slow down and yield for the crossing pedestrians,Annotator 12,149
+1041,scene-1041,test,d,slow down and stop at the crosswalk for the pedestrians to cross the road,Annotator 7,148
+1041,scene-1041,test,d,slow down for the pedestrians crossing,Annotator 11,149
+1041,scene-1041,test,ds,slow down to lett the pedestrians go through then continue going straight,Annotator 9,150
+1042,scene-1042,test,S,Take a harsh right at the intersection,Annotator 10,150
+1042,scene-1042,test,s,Take a right turn and follow the car in front of you,Annotator 12,150
+1042,scene-1042,test,s,after the speed bump turn right,Annotator 11,150
+1042,scene-1042,test,unknown,make a right turn at the intersection and follow the vehicle in front of you,Annotator 9,151
+1042,scene-1042,test,unknown,take a right,Annotator 7,149
+1043,scene-1043,test,S,Take a right at the intersection and then drive past the taxi loop,Annotator 10,151
+1043,scene-1043,test,d,Take a right turn slowing down for the cars stopping at the hotel,Annotator 12,151
+1043,scene-1043,test,unknown,take a right,Annotator 7,150
